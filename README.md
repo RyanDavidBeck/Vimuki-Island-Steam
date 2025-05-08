@@ -2,7 +2,7 @@
 Vimuki Island is a visual novel that deals with the use of social media. 
 
 # Founding
-Vimuki Island was developed in 2022 by Konsonautic Solutions on behalf of the [Historisches Museum Saarbrücken](https://www.historisches-museum.org/startseite). The project was funded by the joint project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Vimuki. The museum4punkt0 project is funded by the Federal Government Commissioner for Culture and the Media on the basis of a resolution of the German Bundestag. 
+Vimuki Island was developed in 2022 by Konsonautic Solutions on behalf of the [Historisches Museum Saarbrücken](https://www.historisches-museum.org/startseite). The project was funded by the joint project [museum4punkt0 - Digital Strategies for the Museum of the Future](https://www.museum4punkt0.de/), sub-project Vimuki. The museum4punkt0 project is funded by the Federal Government Commissioner for Culture and the Media on the basis of a resolution of the German Bundestag. 
 <br>
 The original repository can be found at: 
 [Vimuki Island](https://github.com/museum4punkt0/Vimuki-Island)
