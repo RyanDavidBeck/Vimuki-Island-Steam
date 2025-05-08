@@ -10,18 +10,17 @@ The original repository can be found at:
 # Contributing
 
 This project uses:
-<li>Unity 60000.0.36f1</li>
-<li>Odin Inspector 3.3+</li>
-<li>Do Tween Pro</li>
-<li>Articy Draft X</li>
+- Unity 60000.0.36f1
+- Odin Inspector 3.3+
+- Do Tween Pro
+- Articy Draft X
 <br>
-You are required to provide your own copy of Odin Inspector, Do Tween Pro and Articy. Do not under any circumstance commit Odin Inspector or Do Tween Pro to this project.
+You are required to provide your own copy of Odin Inspector, Do Tween Pro and Articy. **Do not under any circumstance commit Odin Inspector or Do Tween Pro to this project.**
  
 # GPL3 LICENSE SYNOPSIS
 
-**_TL;DR_*** Here's what the license entails:
+## Here's what the license entails:
 
-```markdown
 1. Anyone can copy, modify and distribute this software.
 2. You have to include the license and copyright notice with each and every distribution.
 3. You can use this software privately.
