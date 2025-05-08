@@ -15,7 +15,7 @@ This project uses:
 - Do Tween Pro
 - Articy Draft X
 <br>
-You are required to provide your own copy of Odin Inspector, Do Tween Pro and Articy. __Do not under any circumstance commit Odin Inspector or Do Tween Pro to this project.__
+You are required to provide your own copy of Odin Inspector, Do Tween Pro and Articy.<strong>Do not under any circumstance commit Odin Inspector or Do Tween Pro to this project. </strong>
  
 # GPL3 LICENSE SYNOPSIS
 
