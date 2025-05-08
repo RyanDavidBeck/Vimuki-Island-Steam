@@ -1,0 +1,740 @@
+{
+    "t_se_2_help_sad_d4_r2_0": {
+        "German": "Deprimiert schaut der Bär bei deinem Vorschlag nach unten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_1": {
+        "German": "Wenn es mir sehr schlecht geht, liebe ich es mich mit einem guten Buch und einem warmen Tee in ein gemütliches Bett zu kuscheln.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_2": {
+        "German": "Das hebt meine Laune immer.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_3": {
+        "German": "Außerdem schläft es sich weich doch viel besser als auf dem harten Boden!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_4": {
+        "German": "Der Bär brummt gereizt. Wie sollt ihr auch ein Bett bauen? Ihr seht nicht gerade nach ausgebildeten Schreiner:innen aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_5": {
+        "German": "Und überhaupt? Aus welchem Material wollt ihr es denn bauen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_d6_o1": {
+        "German": "Aus Holz von Bäumen aus der Nähe des Flusses.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_d6_o2": {
+        "German": "Aus Steinen, dem stabilsten Material.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_d6_o3": {
+        "German": "Aus Dreck.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_d6_o4": {
+        "German": "RusH- Outdoor-Jacke",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_0": {
+        "German": "Betten sind doch meistens aus gutem, festem Holz gebaut!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_1": {
+        "German": "Und vor der Höhle ist doch ein ganzer Wald! Materialprobleme werdet ihr sicher nicht haben!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_2": {
+        "German": "Entschlossen fangt ihr an einige umgefallene Stämme und dicke Äste aus dem Wald in die Höhle zu tragen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_3": {
+        "German": "Nach und nach bildet sich vor euch ein beachtlicher Haufen Holz. Jetzt müsst ihr das Holz nur noch zu einem Bett zusammenbauen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_4": {
+        "German": "Leider habt ihr keine Nägel und auch nichts, was ihr als Ersatz dafür nehmen könnt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_5": {
+        "German": "Moment, ich habe eine Idee! Wir können die einzelnen Balken auch ineinanderstecken, so halten sie auch!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_6": {
+        "German": "Ihr schaut Suzan überrascht an. Das könnte wirklich funktionieren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_7": {
+        "German": "Überlasst das mir!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_8": {
+        "German": "Während ihr euch darum kümmert die einzelnen Stämme zurechtzustutzen und das Holz glattzuschleifen, kümmert sich Suzan darum eine Holzverbindung zu errichten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_9": {
+        "German": "Dabei klopft sie Stücke aus den Holzenden heraus, um diese wie einen Reißverschluss zusammenzustecken!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_10": {
+        "German": "Nahtlos gehen die einzelnen Teile ineinander über.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_11": {
+        "German": "Am Ende steht es vor euch. Ein traditionelles Holzbett, das Suzan liebevoll mit ihrer Kuscheldecke auslegt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r1_12": {
+        "German": "Ihr müsst zugeben, ihr seid ein wenig stolz! Der Bär jedoch schnuppert skeptisch an der Konstruktion.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_0": {
+        "German": "Vielleicht könnten wir Steine verwenden? Davon gibt es hier echt viele.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_1": {
+        "German": "Nun ja, wir könnten sie als Basis benutzen. Sie würden das Gewicht des Bären sicher halten!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_2": {
+        "German": "Der Bär beobachtet euch wütend dabei, wie ihr lautstark einzelne Brocken Gestein zu einem Haufen zusammenrollt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_3": {
+        "German": "Achtet vor allem auf Steine mit einer glatten und geraden Oberfläche!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_4": {
+        "German": "Steinplatte um Steinplatte formt ihr eine gerade Erhöhung, auf der der Bär gemütlich Platz nehmen kann.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_5": {
+        "German": "Wir sollten es noch ein wenig weicher machen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_6": {
+        "German": "Ihr schaut euch in der Höhle um und entdeckt Moos, welches auf einer Seite der Höhle wächst.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_7": {
+        "German": "Suzan berührt es mit ihren Fingern. Es fühlt sich eisig an. Das würde dem Bären dabei helfen ordentlich runterzukühlen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_8": {
+        "German": "Ihr legt große Moosbrocken in die Spalten und Ritzen des Steinbetts um eine weiche und bequeme Matratze zu formen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_9": {
+        "German": "Als letzter Schliff entscheidet sich Chad dafür einen weichen Pilz als Kopfkissen zu dem Moos zu legen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r2_10": {
+        "German": "Der Bär schaut überrascht zu dem errichteten Bett. Es sieht doch irgendwie gemütlich aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_0": {
+        "German": "Dreck! Und mit Dreck meinst du alles, was du aus dem Boden unter dir formen kannst. Ihr seid doch schließlich Künstler:innen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_1": {
+        "German": "Motiviert gehst du ans Werk, während deine Freund:innen dich nur unsicher anschauen und auch der Bär hebt skeptisch eine Augenbraue.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_2": {
+        "German": "Dreck? War das dein Ernst?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_3": {
+        "German": "NATÜRLICH! Warum sollte man nicht Dreck verwenden?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_4": {
+        "German": "Und gegen alle Erwartungen steht es vor euch, ein Bett konstruiert aus dem feinsten Dreck, den du in der Höhle finden konntest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_5": {
+        "German": "Du hast dir sogar die Zeit genommen Verzierungen aus Steinen und noch mehr Dreck zu gestalten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_6": {
+        "German": "Und nicht zu vergessen die edlen Kissen und die weiche Matratze. Ebenfalls aus purem Dreck.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r3_7": {
+        "German": "Du schaust den Bären auffordernd an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_0": {
+        "German": "Du überlegst, welches Material dir zur Verfügung steht und da fällt es dir wie Schuppen von den Augen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_1": {
+        "German": "Natürlich! Was ist mit der wetterfesten Jacke, die dir Ravina Rush mitgegeben hat!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_2": {
+        "German": "Der Bär wirkt skeptisch. Naja, die Jacke ist ja ganz schick, aber wie soll jetzt ein Bett draus werden?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_3": {
+        "German": "Das hilft uns doch gar nicht. Sollen wir es aufblasen oder was?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_4": {
+        "German": "Ihr denkt einen Moment über Chads genialen Vorschlag nach.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_5": {
+        "German": "Schließlich ist das eine hochentwickelte Allwetterjacke, vielleicht würde die Luft aus ihr nicht entweichen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_6": {
+        "German": "Außerdem ist der Stoff unglaublich dehnbar und vollkommen reißfest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_7": {
+        "German": "Einen Versuch wäre es wert, auch wenn du dich bei einem gescheiterten Versuch vor Ravinas rushiger Rache fürchten solltest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_8": {
+        "German": "Chad beginnt damit die einzelnen Öffnungen der Jacke fest zusammenzunähen und Suzan verschweißt die Naht mit ihrem Feuerzeug.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_9": {
+        "German": "Du hingegen bekommst den wichtigsten Job von allen, das Aufblasen der Jacke mit deiner Luftpumpe!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_aggro_d4_r2_d6_r4_10": {
+        "German": "Langsam formt sich aus der Jacke eine bequeme Luftmatratze. Der Bär schaut sich dein Werk mit gemischten Gefühlen an. Es folgt die Zerreißprobe.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_0": {
+        "German": "Betten sind doch meistens aus gutem, festem Holz gebaut! Und vor der Höhle ist doch ein ganzer Wald!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_1": {
+        "German": "Materialprobleme werdet ihr sicher nicht haben!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_2": {
+        "German": "Die Augen des Bären folgen euch, während ihr umgefallene Stämme und dicke Äste in seinem Zuhause auftürmt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_3": {
+        "German": "Nach und nach bildet sich vor euch ein beachtlicher Haufen Holz. Jetzt müsst ihr das Holz nur noch zu einem Bett zusammenbauen. Doch wie, ohne Nägel?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_4": {
+        "German": "Moment, ich habe eine Idee! Wir können die einzelnen Balken auch ineinanderstecken, so halten sie auch!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_5": {
+        "German": "Suzan teilt eure Arbeit auf: Ihr sollt die einzelnen Stämme zurechtstutzen und das Holz glattschleifen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_6": {
+        "German": "Sie kümmert sich darum eine Holzverbindung in die Holzstücke zu klopfen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_7": {
+        "German": "Dabei klopft sie Stücke aus den Holzenden heraus, um diese wie einen Reißverschluss zusammenzustecken!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_8": {
+        "German": "Nahtlos gehen die einzelnen Teile ineinander über.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_9": {
+        "German": "Am Ende steht es. Ein traditionelles Holzbett, das Suzan liebevoll mit ihrer Kuscheldecke auslegt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_10": {
+        "German": "Der Bär betrachtet die Konstruktion. Er schätzt eure Mühe sehr, ihr habt einen großen Aufwand betrieben!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r1_11": {
+        "German": "Aber würde das Bett sein Gewicht auch halten? Der Bär beugt sich skeptisch zu der Konstruktion.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_0": {
+        "German": "Glaubt ihr, aus Steinen könnte man ein Bett bauen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_1": {
+        "German": "Wir könnten sie als Basis benutzen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_2": {
+        "German": "Keine schlechte Idee, sie würden das Gewicht des Bären sicher halten!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_3": {
+        "German": "Der Bär brummt nur. Wie sollte das besser sein als der Boden, auf dem er schläft. Wo wäre da der Unterschied?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_4": {
+        "German": "Doch ihr lasst euch nicht beirren und sucht die Höhle nach passenden Steinplatten ab.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_5": {
+        "German": "Achtet vor allem auf Steine mit einer glatten und geraden Oberfläche!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_6": {
+        "German": "Steinplatte um Steinplatte formt ihr eine gerade Erhöhung, auf der der Bär gemütlich Platz nehmen kann.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_7": {
+        "German": "Moment! Da fehlt der letzte Schliff!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_8": {
+        "German": "Mit der Feinfühligkeit eines Inneneinrichters formt Chad eine weiche Matratze aus Moos.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_9": {
+        "German": "Ihr helft ihm dabei jede Spalte mit Moosklumpen zu füllen, um eine luftige, kühlende Matratze zu formen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_10": {
+        "German": "Als letzten Schliff entscheidet sich Chad dafür einen weichen Pilz als Kopfkissen auf dem Luxusbett zu platzieren. VOILÁ!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r2_11": {
+        "German": "Der Bär schaut überrascht. Das Bett sieht doch irgendwie gemütlich aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_0": {
+        "German": "Dreck! Natürlich. So wandelbar. So aufregend! Das perfekte ökologische Material!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_1": {
+        "German": "Dreck ist überall. Alles ist Dreck! Du musstest nur das Bett aus dem Dreck formen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_2": {
+        "German": "Motiviert gehst du ans Werk, während deine Freund:innen dich nur unsicher anschauen und der Bär skeptisch eine Augenbraue hebt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_3": {
+        "German": "Dreck? War das dein Ernst?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_4": {
+        "German": "NATÜRLICH! Warum sollte man nicht Dreck verwenden? Du formst das Bettgerüst aus Dreck.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_5": {
+        "German": "Gefolgt von einer Matratze aus Dreck, einem Kissen aus Dreck und deiner Dreckdecke!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r3_6": {
+        "German": "Erwartungsvoll schaust du den Bären an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_0": {
+        "German": "Du überlegst, welches Material dir zur Verfügung steht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_1": {
+        "German": "Natürlich! Was ist mit der wetterfesten Jacke, die dir Ravina Rush mitgegeben hat!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_2": {
+        "German": "Der Bär wirkt skeptisch. Naja, die Jacke würde sicher eine gute Decke abgeben, aber ein Bett? Ein Bett kann sicher nicht daraus werden!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_3": {
+        "German": "Das hilft uns doch gar nicht. Schließlich ist das doch keine Luftmatratze!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_4": {
+        "German": "Ihr denkt einen Moment über Chads genialen Vorschlag nach.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_5": {
+        "German": "Diese Jacke der Marke RusH ist schließlich eine hochentwickelte Allwetterjacke.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_6": {
+        "German": "Vielleicht würde die Luft drinbleiben, wenn ihr die Löcher stopfen könntet.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_7": {
+        "German": "Außerdem ist der Stoff unglaublich dehnbar und vollkommen reißfest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_8": {
+        "German": "Einen Versuch würde es wert sein, auch wenn du dich beim Scheitern vor Ravina rechtfertigen müsstest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_9": {
+        "German": "Ihr schließt die Öffnungen der Jacke luftdicht ab und verklebt die Nähte mit zuverlässigem Panzerklebeband!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_10": {
+        "German": "Am Schluss wechselt ihr euch an deiner Luftpumpe ab.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_11": {
+        "German": "Mit vereinten Kräften bläht sich die Jacke immer mehr auf und wird zu einer gigantischen Luftmatratze!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_sad_d4_r2_d6_r4_12": {
+        "German": "Zumindest reißt sie jetzt noch nicht. Ihr betrachtet den Bären, der das Bett mit gemischten Gefühlen ansieht. Es folgt die Zerreißprobe.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_luft_0": {
+        "German": "Der Bär platziert sich vorsichtig auf der provisorischen Luftmatratze. Eine Pfote nach der anderen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_luft_1": {
+        "German": "So weit, so gut. Jetzt sitzt er vollständig darauf. Die Jacke dehnt sich, aber reißt nicht!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_luft_2": {
+        "German": "Der Bär schnüffelt an den edlen Stoffen, bevor er euch erstaunt anschaut.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_luft_3": {
+        "German": "Das hält ja wirklich!!! Und es fühlt sich an, als ob ich auf einer Wolke liegen würde!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_luft_4": {
+        "German": "Natürlich ist sie das! Und sie ist nicht nur superbequem, sie ist auch wärmeabweisend!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_luft_5": {
+        "German": "Der Bär kühlt auf eine angenehme Temperatur herunter und brummt zufrieden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_stein_0": {
+        "German": "Ihr betrachtet euer Steinbett mit Zuversicht und auch der Bär ist unglaublich interessiert daran.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_stein_1": {
+        "German": "Langsam hievt er sein Gewicht auf die festen und stabilen Platten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_stein_2": {
+        "German": "Die kühlen ja richtig die Pfoten!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_stein_3": {
+        "German": "Und nicht nur die! Auch das Moos kühlt ihn langsam, aber sicher herunter!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_stein_4": {
+        "German": "Was für eine Erleichterung! Er plumpst in das kuschelige Moos und atmet tief durch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_0": {
+        "German": "Langsam klettert der Säbelzahnbär in das zusammengebaute Bett, welches unter seinem Gewicht langsam zu knarzen beginnt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_1": {
+        "German": "Ihr haltet gespannt den Atem an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_2": {
+        "German": "Wird es zusammenbrechen oder das hohe Gewicht halten?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_3": {
+        "German": "Und ... es hält tatsächlich! Auch wenn es unter dem Gewicht zu leiden hat!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_4": {
+        "German": "Zufrieden atmet ihr aus. Das Holzbett war eine gute Idee!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_5": {
+        "German": "Doch da hört ihr es schon! Das laute Knacken der Bretter und das traurige Aufjaulen des Bären…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_holz_6": {
+        "German": "Das Bett ist in sich zusammengebrochen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_0": {
+        "German": "Der Bär tapst langsam zu dem Bett aus reinem Dreck und platziert erst eine Pfote drauf, dann die andere.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_1": {
+        "German": "Das fühlt sich nicht anders an als der Boden unter euch. Was soll hier besser sein als sonst?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_2": {
+        "German": "Der Bär schaut dich fragend an, doch du bestehst drauf, dass er sich hinlegt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_3": {
+        "German": "Er würde schon sehen! Auf deine Genialität konntest du dich schon immer verlassen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_4": {
+        "German": "... Aber heute macht sie anscheinend eine Ausnahme.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_5": {
+        "German": "Gerade als der Bär sein Gewicht auf das Bett stemmen will, fällt es in sich zusammen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_help_d4_r2_dreck_6": {
+        "German": "Der Bär ist jetzt nicht nur müde, sondern auch noch dreckig!!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "t_se_2_bear": {
+        "German": "Säbelzahnbär",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

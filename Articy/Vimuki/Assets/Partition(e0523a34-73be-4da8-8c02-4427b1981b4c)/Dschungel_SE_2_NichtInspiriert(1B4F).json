@@ -1,0 +1,446 @@
+{
+    "d_se_2_insp_nicht_0": {
+        "German": "Martin schaut deprimiert zu Boden. Nun sieht er schlechter aus als vorher!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_1": {
+        "German": "Geknickt schnappt er sich seine Kunstmaterialien und packt sie zusammen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_2": {
+        "German": "Och man. Das tut uns leid.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_3": {
+        "German": "Komm, versuchen wir es weiter! Vielleicht fällt uns was ein!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_4": {
+        "German": "Gehen wir ein Stück. Dort hinten ist mein Zuhause!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_5": {
+        "German": "In seinem Haus sieht alles sehr chaotisch aus. Pinsel und Farbtöpfe liegen kreuz und quer über dem Holzboden verteilt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_6": {
+        "German": "Selbst an der Decke des kleinen, aber feinen Hauses könnt ihr dicke Farbspritzer erkennen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_7": {
+        "German": "Mitten in dieser Unordnung steht eine Staffelei, zu der sich Martin lustlos hinschleppt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_8": {
+        "German": "Demotiviert setzt er sich vor die leere Leinwand. Ihr schaut euch an. Was sollt ihr jetzt tun?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_o1": {
+        "German": "Nicht aufgeben!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_o2": {
+        "German": "Aufgeben…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_0": {
+        "German": "Du darfst doch jetzt nicht aufgeben! Komm schon Kopf hoch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_1": {
+        "German": "Jeder hat mal ein Tief. Davon darfst du dich nicht unterkriegen lassen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_2": {
+        "German": "Martin seufzt nur schwerfällig. Ihr betrachtet den Maler besorgt. So hattet ihr ihn gar nicht kennengelernt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_3": {
+        "German": "Ihr müsst dringend etwas anderes versuchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_o1": {
+        "German": "Dir fällt nichts mehr ein…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_o2": {
+        "German": "Benutz das Multitool",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_0": {
+        "German": "Ihr grübelt und grübelt und zerbrecht euch dabei beinahe den Kopf, aber auch euch will nichts mehr einfallen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_1": {
+        "German": "All eure Tipps und Tricks haben nicht funktioniert. Stattdessen haben sie den Künstler nur noch weiter demotiviert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_2": {
+        "German": "Wisst ihr was? Es reicht jetzt! Das bringt doch rein gar nichts. Lass was anderes machen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_3": {
+        "German": "Und was?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_4": {
+        "German": "Keine Ahnung. Lass uns was spielen. Oder wir könnten zusammen kochen. Es ist so oder so Zeit etwas zu essen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_5": {
+        "German": "Meinst du? Ach, warum nicht. Es klappt ja sowieso nicht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_6": {
+        "German": "Kopf hoch jetzt! Morgen gehts weiter und jetzt kochen wir!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_7": {
+        "German": "Zusammen drängt ihr euch in Martins kleine Küche und beginnt damit ein kleines Festessen zuzubereiten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_8": {
+        "German": "Das gemütliche Haus füllt sich mit dem Geruch von Feijoada, einem portugiesischen Bohneneintopf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_9": {
+        "German": "Genau wie es meine Oma gemacht hat. Das war immer mein Gute-Laune-Essen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_10": {
+        "German": "Zusammen setzt ihr euch an den Tisch und verschlingt das leckere Essen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_11": {
+        "German": "Die Stimmung hebt sich und ihr beginnt damit euch zu unterhalten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r1_12": {
+        "German": "Eure angeregten Erzählungen und freundschaftlichen Debatten gehen noch bis tief in die Nacht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_0": {
+        "German": "Vielleicht ist ja das Multitool in so einer Situation hilfreich. Aber wie kann das Multitool Martin bei seinem Meisterwerk nur helfen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_1": {
+        "German": "Du probierst eine Funktion nach der anderen aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_2": {
+        "German": "Aus dem Tool springen eine Säge, ein Hammer, eine Schere und sogar ein kleiner Zirkel. Das Teil hat ja wirklich alles!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_3": {
+        "German": "Plötzlich entdeckst du einen roten, leuchtenden Knopf, der dich magisch anzieht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_4": {
+        "German": "Auch wenn du niemals auf mysteriöse rote Knöpfe drücken solltest, kannst du deine Finger nicht davon lassen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_5": {
+        "German": "Du musst diesen Knopf jetzt drücken!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_6": {
+        "German": "Auf einmal schleudert das Multitool Konfetti aus allen Ecken und Kanten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_7": {
+        "German": "Sogar eine kleine Sahnetorte schießt dir mitten ins Gesicht. Diese hat sich wohl die ganze Zeit in dem Multitool versteckt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_8": {
+        "German": "Du hast keine Ahnung wie und es macht absolut keinen Sinn.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_9": {
+        "German": "Nach diesem Schreck müssen Suzan und Chad über dein mit Torte verschmiertes Gesicht lachen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_10": {
+        "German": "Auch Martin kann sein Kichern nicht lange zurückhalten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_11": {
+        "German": "Eins muss ich sagen! Jetzt geht es mir viel, viel besser!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_12": {
+        "German": "Er atmet leise aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_13": {
+        "German": "Er beginnt damit sein Lager aus Leinwänden nach einer komplett neuen Leinwand zu durchforsten, welche er dann auf der Staffelei platziert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r1_d9_r2_14": {
+        "German": "Ihr habt recht! Ich muss es wieder versuchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_0": {
+        "German": "Das bringt doch nichts. Heute ist irgendwie der Wurm drin.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_1": {
+        "German": "Missmutig lehnst du dich gegen deinen Rucksack, das ist doch alles hoffnungslos.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_o1": {
+        "German": "Alles hinwerfen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_o2": {
+        "German": "Benutz das Multitool",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_0": {
+        "German": "Wir sollten jetzt nicht den ganzen Abend Trübsal blasen! So verderben wir uns ja nur den restlichen Tag.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_1": {
+        "German": "Dann machen wir doch etwas Entspannendes! Wie wäre es mit einem warmen Essen und ein paar guten Büchern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_2": {
+        "German": "Ich wäre für Filme! Da muss man sich weniger konzentrieren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_3": {
+        "German": "Auch du hättest nichts gegen einen Film einzuwenden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_4": {
+        "German": "Warum nicht. Das kann nicht schlimmer sein als eine Schaffenskrise!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_5": {
+        "German": "Gemeinsam begebt ihr euch in Martins kleines, aber kuscheliges Wohnzimmer.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_6": {
+        "German": "Ihr hüllt euch alle in weiche Decken und setzt euch mit einem Glas warmer Milch auf Martins Sofa.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_7": {
+        "German": "Chad schaltet seinen kleinen, tragbaren Fernseher an, den er bereitwillig aufgestellt hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r1_8": {
+        "German": "Ihr zappt vor dem handlichen Gerät durch die Programme und schaut euch die unterschiedlichsten Sendungen an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_0": {
+        "German": "Doch da fühlst du etwas an deinem Rücken. Natürlich! Wie konntest du es nur vergessen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_1": {
+        "German": "Hektisch kramst du in deiner Tasche und ziehst freudig das Multitool heraus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_2": {
+        "German": "Wie Mrs. Crowd und Mr. Funding sagen würden: \\Man darf sich niemals unterkriegen lassen!\\.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_3": {
+        "German": "Wild probierst du sämtliche Funktionen des Tools aus, bis dir einige Knöpfe am Rand des Taschenmessers auffallen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_4": {
+        "German": "Mutig probierst du den grünen Knopf aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_5": {
+        "German": "Gespannt beobachtet ihr, wie sich in der Mitte des Tools eine Klappe öffnet, aus der eine kleine Discokugel geschossen kommt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_6": {
+        "German": "Fetzige Beats hallen in dem kleinen Haus, während sich die Kugel dreht und wie von selbst leuchtet.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_7": {
+        "German": "Nach einem kurzen Song verschwindet sie wieder im Inneren des Tools.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_8": {
+        "German": "Was war das denn?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_9": {
+        "German": "Du hast keinen blassen Schimmer.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_10": {
+        "German": "Nach diesem Schreck müsst ihr erst einmal über die Situation lachen. Was für ein komisches Tool.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_11": {
+        "German": "Für welche Situation ist das denn gedacht? Auch Martin kann sein Kichern nicht lange zurückhalten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_12": {
+        "German": "Eins muss ich sagen! Jetzt geht es mir viel, viel besser!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_13": {
+        "German": "Er atmet leise aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_14": {
+        "German": "Er beginnt damit sein Lager aus Leinwänden nach einer komplett neuen Leinwand zu durchforsten, welche er dann auf der Staffelei platziert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_2_insp_nicht_d8_r2_d10_r2_15": {
+        "German": "Ihr habt recht! Ich muss es wieder versuchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

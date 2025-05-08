@@ -1,0 +1,698 @@
+{
+    "s_intro_0": {
+        "German": "Der Strand, mit seinen weißen Dünen und seinen seichten blauen Wellen, ist eine beliebte Location der vielen verschiedenen Inselbewohner:innen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_intro_1": {
+        "German": "Der saubere Strand lädt dazu ein, in der warmen Sonne zu baden, im Schatten großer Palmen Sandburgen zu bauen oder einfach nur auf Tauchexpeditionen zu gehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_intro_2": {
+        "German": "In der Nähe soll es sogar eine Cocktailbar geben. Also packt eure Badesachen und nichts wie los!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_0": {
+        "German": "Der Tag ist heute weniger sonnig und ein kühler Wind fegt über die Küste. Das wird heute wohl nichts mit einem Sonnenbad.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_1": {
+        "German": "Da ihr euch vom Wetter nicht den Tag verderben lassen wollt, sprintet ihr rasch zum Camp und holt eure Tauchausrüstung.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_2": {
+        "German": "Dann macht ihr halt Unterwasser ein paar Fotos! Ausgerüstet und bereit begebt ihr euch ins seichte Nass.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_3": {
+        "German": "Was wollen wir denn eigentlich fotografieren? Die schönen Korallenriffe dort drüben?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_4": {
+        "German": "Nee, lass mal! Das macht doch jeder! Lasst uns die Gegend absuchen, vielleicht finden wir ja dort etwas Interessantes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_5": {
+        "German": "Oder wir könnten auch einfach ein paar Fotos von uns machen. Als Andenken, meine ich!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_6": {
+        "German": "Chad und Suzan gucken dich erwartungsvoll an. Was wäre dir lieber?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_o1": {
+        "German": "Die Korallenriffe",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_o2": {
+        "German": "Euch selbst",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_o3": {
+        "German": "Gegend absuchen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_0": {
+        "German": "Ihr taucht zu den bunten Korallenriffen und versucht die wunderschönen Farben mit eurer Kamera einzufangen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_1": {
+        "German": "Guckt euch mal die ganzen kleinen bunten Fische an, die sich in den Korallen verstecken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_2": {
+        "German": "Ey Leute, ich hab hier ein Loch gefunden!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_3": {
+        "German": "Er winkt euch zu sich. Bei dem besagten Loch handelt es sich um den Eingang zu einer Unterwasserhöhle, die Chad euch nun stolz präsentiert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_4": {
+        "German": "Na? Ist das nicht krass? Da ist bestimmt ein Schatz versteckt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_5": {
+        "German": "Naja ich weiß ja nicht, ob wir wirklich da reinschwimmen sollten. Ich kann kaum etwas erkennen. Lasst uns doch lieber zurück zu den Korallen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r1_6": {
+        "German": "Stimmt, die Höhle ist im Inneren wirklich pechschwarz. Aber es liegt wohl nun an dir eine Entscheidung zu treffen: Lockt dich der Schatz oder bleibst du bei den Korallen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_o1": {
+        "German": "Höhle erkunden",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_o2": {
+        "German": "Korallen erforschen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_0": {
+        "German": "So einen Schatz findet man nur einmal im Leben. Du schwimmst mit Chad hinein und findest dich in einem weitreichenden Höhlensystem wieder.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_1": {
+        "German": "Irgendwie bin ich mir jetzt doch nicht mehr sicher, ob das eine so gute Idee ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_2": {
+        "German": "Du musst Chad recht geben. Selbst mit Taschenlampen könnt ihr in der tiefen Schwärze nichts erkennen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_3": {
+        "German": "Lasst uns lieber umkehren. Ich will mich hier echt nicht verlaufen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_4": {
+        "German": "Du hast auch wenig Lust darauf in einer dunklen Höhle zu ertrinken, also schwimmst du mit Chad zurück zum Höhleneingang.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_5": {
+        "German": "Och Mann, ey! Das ist ja richtig mies gelaufen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_6": {
+        "German": "Du hättest auch lieber coole Fotos von der Unterwasserhöhle gemacht, aber das Risiko sich zu verlaufen und dann zu ertrinken, ist dir zu hoch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_7": {
+        "German": "Doch da kommt dir eine zündende Idee. Du sammelst ein wenig dünnes Treibholz, schnappst dir deinen Selfie-Stick und bindest alles geschickt mit Algen zusammen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_7_b": {
+        "German": "Stolz präsentierst du Chad deine Kreation.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_8": {
+        "German": "Alter! Du bist ja ein richtiges Genie! Ein super langer Selfie-Stick. Damit können wir in die Höhle schauen und sind selbst safe! Affenstark.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_9": {
+        "German": "Ihr klemmt die Kamera an das Ende deiner Konstruktion und schiebt diese in das Dunkel der Höhle hinein. Gespannt seht ihr beiden euch die Resultate an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_10": {
+        "German": "Da ist ja alles schwarz! Man kann nichts erkennen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r1_11": {
+        "German": "Naja, das war doch nix. Enttäuscht schwimmt ihr zurück zu Suzan.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_0": {
+        "German": "Die schönen bunten Korallen sind ein echter Blickfang, du entscheidest dich zurückzuschwimmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_1": {
+        "German": "Ich kann gar nicht aufhören Fotos von ihnen zu machen! Da sind bestimmt völlig neue Arten dabei.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_2": {
+        "German": "Haha, kuck mal, die eine Koralle bewegt sich. Die schwimmt tatsächlich zu dir rüber.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_3": {
+        "German": "Quatsch! Korallen können nicht schwimmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_4": {
+        "German": "Doch Chad hat recht. Irgendetwas Buntes und Schuppiges scheint sich auf Suzan zuzubewegen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_5": {
+        "German": "Ach Chad, das ist doch keine Koralle. Das ist ein Fangschreckenkrebs.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_6": {
+        "German": "Der Fangschreckenkrebs fixiert Suzan mit seinen mordlustigen Stielaugen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_7": {
+        "German": "Mit seiner Größe von 30 Zentimetern wirkt er auch äußerst gefährlich für einen Krebs. Um Dominanz zu beweisen, verfärbt er seinen Panzer zu einem bedrohlichen Lila.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_8": {
+        "German": "Ich habe das Gefühl, dass er uns so gar nicht hierhaben will! Oder was meint ihr?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_9": {
+        "German": "Du zuckst mit den Schultern und willst dich zu Chad drehen, der aber bereits das Weite gesucht hat. Er hasst Tiere mit vielen Beinen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d2_r2_10": {
+        "German": "Zusammen mit Suzan schwimmst du Chad rasch hinterher, aber erst nachdem du noch schnell ein Foto von diesem verrückten Krebs geschossen hast.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_0": {
+        "German": "Ihr habt viel Spaß euch gegenseitig bei dummen Schnorchel-Aktivitäten und Schwimm-Manövern zu filmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_1": {
+        "German": "Schau mal! Das hier nenne ich die Spirale.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_2": {
+        "German": "Genial! Und das hier ist das flitzende Flammenbeil.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_3": {
+        "German": "Ihr schwimmt immer weiter und gebt euren Stunts zusehends verrücktere Namen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_3_b": {
+        "German": "Es dauert nicht lange, bis ihr ein altes Schiffswrack entdeckt, das einsam und verlassen am Grunde des Meeres liegt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_4": {
+        "German": "Ihr wollt es euch auf jeden Fall genauer ansehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_5": {
+        "German": "Ich möchte da unbedingt rein. Das wäre voll die spannende Location! Meine Fans finden das sicher cool! Und vielleicht ist dort sogar noch etwas Wertvolles.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_6": {
+        "German": "Ich würde zuerst draußen suchen. Vielleicht finden wir in den Trümmern irgendeinen Anhaltspunkt, was das für ein Schiff ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r2_7": {
+        "German": "Was wollt ihr untersuchen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_o1": {
+        "German": "Das Innere.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_o2": {
+        "German": "Das Äußere",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_0": {
+        "German": "Ihr schwimmt zusammen durch ein riesiges, klaffendes Loch in der Seite des Schiffes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_1": {
+        "German": "Was wohl das Loch in die Wand gerissen hat?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_2": {
+        "German": "Bestimmt ein Torpedo oder sowas.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_3": {
+        "German": "Leider fallen euch die Bissspuren am Rande des Loches nicht auf und ihr begebt euch nichtsahnend in das Innere des Wracks.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_4": {
+        "German": "Das Schiff muss echt alt sein. Es ist komplett aus Holz und total rissig.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_5": {
+        "German": "Es gibt hier garantiert einen Schatz. Solche Schiffe haben immer einen Schatz!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_6": {
+        "German": "Er fängt an die Bretter und Fässer zu bewegen, um nach möglichen Geheimverstecken zu suchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_6_b": {
+        "German": "Auf einmal bewegt sich das Gerümpel und aus den Trümmern steigt eine Kreatur empor. Ihr riesiges, gelbes Auge fixiert euch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_7": {
+        "German": "Ein KRAKE!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_8": {
+        "German": "Seit wann haben Kraken Federn?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_9": {
+        "German": "Geschockt schaut ihr in das Antlitz eines Quacktopus, der versucht euch mit seinen messerscharfen Schnabelhälften zu erwischen. Für ihn seid ihr ein netter kleiner Snack.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_10": {
+        "German": "Ihr schafft es gerade so mit Mühe und Not aus dem Schiff zu fliehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_10_b": {
+        "German": "Der Quacktopus bleibt bei dem Versuch euch zu fangen im Schiffsrumpf stecken und kann die Verfolgung nicht weiter aufnehmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r1_11": {
+        "German": "Glück gehabt. Ihr knippst noch schnell ein Foto, bevor ihr euch endgültig aus dem Staub macht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_0": {
+        "German": "Ihr beschließt das Schiff von außen genauer zu untersuchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_1": {
+        "German": "Das ist der totale Hammer. Ein echtes, antikes Schiffswrack.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_2": {
+        "German": "Pff ... Das ist doch nur ein dummer, alter Kahn! Das Interessante ist bestimmt drinnen versteckt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_3": {
+        "German": "Eingeschnappt über eure Entscheidung lehnt er sich an das morsche Holz. Doch was ist das?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_4": {
+        "German": "Leute … da wachsen komische weiße Klumpen aus der Wand. Das gibts nicht! Kriegt das Schiff etwa Pickel!?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_5": {
+        "German": "Chad. Seit wann können Schiffe…?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_6": {
+        "German": "Zu spät. Chad hat bereits seine Anti-Pickelcreme ausgepackt. Diese trägt er für Notfälle immer bei sich. Er reibt die weißen Pocken, die am Schiffsrumpf kleben, gründlich mit seiner Salbe ein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_7": {
+        "German": "Chad, das sind doch nur Seepocken!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_8": {
+        "German": "Das ist ja noch schlimmer! Das klingt ja wie eine Krankheit! Warte, Schiff. ICH RETTE DICH!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_9": {
+        "German": "Er schrubbt noch stärker und in der Tat, die Seepocken fangen an sich vom Schiff zu lösen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_9_b": {
+        "German": "Leider suchen sie sich nun einen neuen Platz, an dem sie sich festsaugen können. Zum Glück steht Chad ja direkt in der Nähe.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_10": {
+        "German": "DAS IST JA VOLL EKLIG! Die gehen ja gar nicht mehr ab!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_11": {
+        "German": "So etwas haben weder du noch Suzan jemals gesehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d3_r2_12": {
+        "German": "Ihr lacht, bis euch die Tränen kommen und macht dabei fix noch ein Foto von Chad, der zeigt, wie gut seine Creme gegen hartnäckige Seepocken hilft.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r3_0": {
+        "German": "Ihr sucht den Meeresboden nach schönen Motiven ab. Einige bewegen sich zu schnell, andere bewegen sich zu wenig. Deine Fotos sind bisher noch nicht wirklich gelungen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r3_1": {
+        "German": "Och Mann ey, hier ist nur Sand. Ich habe nur Bilder von Sand! Gelber Sand, brauner Sand, roter Sand. Nichts als SAND!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r3_2": {
+        "German": "Chad klingt frustriert über seine langweiligen Bilder.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r3_3": {
+        "German": "Lasst uns eine andere Stelle suchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r3_4": {
+        "German": "Warte mal! Da vorne ist ein Abhang, schauen wir dort mal nach! Vielleicht führt der ja zu etwas Tollem.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d1_r3_5": {
+        "German": "Was möchtest du machen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_o1": {
+        "German": "Eine andere Stelle suchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_o2": {
+        "German": "Zum Abhang schwimmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_0": {
+        "German": "Ihr folgt Suzan durch die sandigen Weiten und findet tatsächlich etwas äußerst Mysteriöses.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_1": {
+        "German": "Guck mal die Spuren auf dem Boden. Das waren bestimmt Wasser-Aliens.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_2": {
+        "German": "Du guckst skeptisch auf den Boden unter euch. Dort sind lauter kleine Spuren im Sand, welche zu einer Spirale zusammenlaufen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_2_b": {
+        "German": "Wer zeichnet denn solche Muster in den Sand? Sind es etwa wirklich Aliens? Doch Suzan lacht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_3": {
+        "German": "Das sind doch keine Aliens, guck mal dort drüben.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_4": {
+        "German": "Sie zeigt zu einer unscheinbaren Stelle im Sand. Dort bewegt sich etwas. Es ist ein kleiner Kugelfisch, der mühselig Muster in den Sand gräbt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_5": {
+        "German": "Der trainiert ja mal fleißig. Ich nenne den Fischbruder Helium.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_6": {
+        "German": "Kugelfischmännchen wollen mit diesen Mustern ihre potenziellen Partnerinnen beeindrucken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_7": {
+        "German": "Ah! Also die Ladys beeindrucken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_8": {
+        "German": "Chad grinst dem Fisch frech entgegen. Die besagte Lady kommt langsam und gemächlich zu euch geschwommen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_8_b": {
+        "German": "Die Kugelfischdame ist von dieser wunderschönen Spirale genauso beeindruckt wie ihr.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r1_9": {
+        "German": "Sie schwimmt zu ihrem Umwerber und gibt ihm einen dicken Schmatzer auf die Wange. Das ist superniedlich. Ihr knipst ein Foto.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_0": {
+        "German": "Ihr folgt Chad zum Abhang und müsst mit Erstaunen feststellen, dass sich hinter ihm ein gewaltiger Abgrund erstreckt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_0_b": {
+        "German": "Ihr schaut in den Abgrund hinunter und bekommt das mulmige Gefühl, dass der Abgrund auch euch anstarrt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_1": {
+        "German": "Unheimlich. Ich habe ein ganz übles Gefühl bei der Sache.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_2": {
+        "German": "Ja, ich auch, diese Schlucht geht echt tief hinunter.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_3": {
+        "German": "Auf einmal schauen euch 1, 2, 3, 4, 5, 6, drölf Augenpaare entgegen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_4": {
+        "German": "Der Abgrund beginnt sich zu bewegen und große, aber dünne Zähne schießen aus dem Boden. Du machst schnell ein Foto, sowas hast du noch nie gesehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_5": {
+        "German": "Keine Zeit für Fotos, schnell weg hier.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_6": {
+        "German": "Suzan packt euch am Arm und zerrt dich und den vor Angst gelähmten Chad von dieser skurrilen Schlucht weg.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_7": {
+        "German": "Hinter euch seht ihr, wie sich ein riesiges Monster aus dem Boden erhebt, sich umsieht und sich dann wieder in Windeseile in den Meeresboden eingräbt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_d4_r2_8": {
+        "German": "Ihr wisst nicht, was das für ein Wesen sein könnte. Ihr seid einfach heilfroh darüber, dass ihr jetzt kein Mittagessen geworden seid.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_ee_4_name_krebs": {
+        "German": "Fangschreckenkrebs",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

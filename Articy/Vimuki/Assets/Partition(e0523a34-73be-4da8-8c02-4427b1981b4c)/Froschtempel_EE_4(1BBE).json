@@ -1,0 +1,404 @@
+{
+    "f_intro_0": {
+        "German": "Du hast von einem Tempel auf der anderen Seite der Insel gehört, welcher unheimliche Gefahren, aber auch unglaublichen Spaß beherbergen soll.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_intro_0_b": {
+        "German": "Zumindest laut der Broschüre, welche du von den Affen bekommen hast.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_intro_1": {
+        "German": "Und so reist du durch die Gefahren des Regenwaldes und findest dich vor einer mächtigen Konstruktion aus festem, dickem Stein wieder.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_intro_2": {
+        "German": "Um euch herum ist sumpfiges Gelände mit einigen kleinen und großen Seerosenteichen, die in voller Blüte stehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_0": {
+        "German": "Ihr stapft durch die feuchte Sumpflandschaft, als ihr einige riesige Seerosenblätter in den umliegenden Gewässern bemerkt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_0_b": {
+        "German": "Diese grenzen direkt an einen gewundenen Fluss, der seicht vor euch hinplätschert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_1": {
+        "German": "Chad und Suzan sind total begeistert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_2": {
+        "German": "Komm wir gehen dort runter! Dort können wir bestimmt super Schnappschüsse machen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_3": {
+        "German": "Das sieht ja voll GENIAL aus!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_4": {
+        "German": "Auch du findest das Ganze spannend. Du schlägst vor mit den gigantischen Seerosenblättern zu fahren. Diese sind immerhin so groß wie ein kleines Boot.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_4_b": {
+        "German": "Suzan springt sofort zu einem der Blätter. Es sieht groß und robust aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_5": {
+        "German": "Das hier sieht doch perfekt aus!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_6": {
+        "German": "Chad hingegen hat sich für ein anderes Blatt entschieden. Es ist sogar noch größer als Suzans Blatt, dafür hat es aber ein paar Risse.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_7": {
+        "German": "Haha meins ist größer und die Löcher sehen aus wie Flammen! Alles mit Flammen drauf ist doch automatisch schnell!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_8": {
+        "German": "Welches Blatt nehmt ihr nun?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_o1": {
+        "German": "Chads Blatt",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_o2": {
+        "German": "Suzans Blatt",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r1_0": {
+        "German": "Du entscheidest dich für Chads Blatt. Du findest an Chads Logik nichts auszusetzen, außerdem sieht das Blatt mit den flammenförmigen Löchern einfach ultra cool aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r1_0_b": {
+        "German": "Suzan ist zwar noch skeptisch, aber sie willigt dennoch ein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r1_1": {
+        "German": "Immerhin habt ihr sie fair überstimmt. Überraschenderweise hatte Chad mit seiner Flammentheorie recht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r1_1_b": {
+        "German": "Ihr saust den nun wild wirkenden Fluss entlang und kommt sehr schnell voran.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r1_2": {
+        "German": "Durch die Löcher werdet ihr aber leider klatschnass.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r2_0": {
+        "German": "Du entscheidest dich für Susans Blatt. Chad ist ein wenig enttäuscht, aber er willigt ein. Suzans Blatt sieht wesentlich robuster aus als das andere.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d1_r2_1": {
+        "German": "Ihr steigt gemeinsam in euer improvisiertes Boot und schippert den sanften Fluss entlang. Die Fahrt ist ein wenig langsam, aber immerhin bleibt ihr trocken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_9": {
+        "German": "Eure Reise führt euch zu einer gigantischen aus Ranken geformten Pflanze, die den Wasserrutschen aus deinem Lieblingshallenbad sehr ähnlich sieht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_9_b": {
+        "German": "Denn an ihren rutschenförmigen Ranken läuft konstant Wasser hinunter.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_10": {
+        "German": "Wahnsinn, das gibts ja nicht. Das sieht ja aus wie im Märchen. Das ist die beste Fotolocation EVER!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_11": {
+        "German": "Ihr drei seid euch einig: Ihr wollt unbedingt die Rutsche ausprobieren! Also schnappt ihr euch euer Seerosenblätterboot als Reifenersatz und rutscht die Ranken hinunter.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_12": {
+        "German": "Nachdem ihr euren Spaß hattet und die Ranken ausgiebig getestet habt, ist es endlich Zeit für ein Foto.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_13": {
+        "German": "Ja lass uns endlich ein Foto machen, meine Follower:innen werden durchdrehen. Aber einfach nur runterrutschen ist mir zu langweilig. Wir müssen dazu noch fett posieren, am besten wie im Zirkus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_14": {
+        "German": "Nee, wir sollten uns lieber auf den Bauch legen. So kriegen wir viel bessere Detailaufnahmen von diesen faszinierenden Ranken hin.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_14_b": {
+        "German": "Sowas hat noch nie jemand gepostet. Außerdem fallen wir so wahrscheinlich nicht vom Blatt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_15": {
+        "German": "Beide gucken dich erwartungsvoll an. Was möchtest du tun?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_o1": {
+        "German": "Zirkuspose",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_o2": {
+        "German": "Hinlegen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_o3": {
+        "German": "Hintereinander runterrutschen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_0": {
+        "German": "Ihr rutscht noch einmal die Ranken entlang und versucht dabei eine Dreiecksformation zu bilden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_0_b": {
+        "German": "Suzan und Chad stehen an den Seiten, während sie dich ganz oben über ihren Köpfen positionieren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_1": {
+        "German": "Du musst dabei nicht nur die Balance halten, sondern zusätzlich noch ein Selfie mit deinem extra langen Selfie-Stick schießen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_1_b": {
+        "German": "Gerade, als du den Auslöser betätigst, fangen Chad und Suzan an zu schwanken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_2": {
+        "German": "Suzan, halt mal still, sonst wird das mit dem Foto nichts!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_3": {
+        "German": "Ich versuchs ja! Aber wie soll ich denn in den Kurven ruhig stehen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_4": {
+        "German": "Gerade als Suzan ihren Satz beendet hat, verliert auch Chad sein Gleichgewicht und ihr stürzt vom Seerosenblatt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_5": {
+        "German": "Unten angekommen zieht ihr euch die Blätterstücke aus den Haaren und trocknet eure Kleidung in der Sonne. Ihr seid vollkommen durchnässt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_6": {
+        "German": "Zeig mal die Fotos, ich bin schon ganz gespannt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_7": {
+        "German": "Du erwartest nicht viel von den Bildern, aber zu deiner Überraschung konntest du ein perfektes Bild von euch in der Dreiecksformation schießen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r1_8": {
+        "German": "Ihr seht aus wie professionelle Akrobat:innen. Chad freut sich und Suzan ist beeindruckt von eurem Geschick.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_0": {
+        "German": "Ihr rutscht noch einmal die Ranken entlang und legt euch dabei nebeneinander auf eure Bäuche.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_0_b": {
+        "German": "Ihr versucht mit eurem Makroobjektiv einige detaillierte Bilder von den Ranken und den darauf lebenden Insekten zu machen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_1": {
+        "German": "Durch eure Position seid ihr allerdings sehr aerodynamisch, sogar zu aerodynamisch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_1_b": {
+        "German": "Ihr legt schnell an Geschwindigkeit zu und saust mit einem noch nie dagewesenen Tempo die Rankenrutsche hinunter.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_2": {
+        "German": "Die Kurven schleudern euch hin und her. Es macht einen Riesenspaß.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_3": {
+        "German": "Endlich unten angekommen ruht ihr euch kurz von dieser adrenalinreichen Fahrt aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_4": {
+        "German": "Oh Mann, die ersten Bilder waren zwar ganz gut, aber die anderen sind total verschwommen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_5": {
+        "German": "Du hast ein gutes Bild? Meine sind alle verschwommen. Aber das Tempo war echt der Wahnsinn.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_6": {
+        "German": "Auch deine Bilder sind komplett verschwommen. Aber auch in verschwommenen Bildern könnte sich ein Meisterwerk befinden!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r2_6_b": {
+        "German": "Aber immerhin habt ihr die beste Rutschfahrt eures Lebens erlebt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_0": {
+        "German": "Ihr rutscht, wie ihr zuvor gerutscht seid, nämlich hintereinander sitzend. Was bereits gut funktioniert hat, sollte man nicht verändern!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_1": {
+        "German": "Ihr saust die Rutsche entlang und lehnt euch in ihre Kurven. Es ist wie bei einer Achterbahnfahrt, nicht zu schnell, nicht zu langsam, einfach perfekt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_2": {
+        "German": "Ihr macht erfolgreich eure Fotos und unten angekommen bewundert ihr eure Bilder.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_3": {
+        "German": "Hui! Die Wassertropfen um mich herum bringen ja meine Haut total zur Geltung! Ich sehe richtig glänzend aus!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_4": {
+        "German": "Du betrachtest das Bild. Stimmt, aber du würdest glänzend wohl nur als nass bezeichnen. Auch Suzan grinst über ihre Fotografien.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_5": {
+        "German": "Das sieht alles so schön aus! Besonders das hier.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_6": {
+        "German": "Sie zeigt euch ein Foto einer Libelle, die eurem Seerosenblatt eine Weile gefolgt ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_7": {
+        "German": "Wow… Ich habe noch nie eine Detailaufnahme eines Insektes gesehen! Was für krasse Augen die haben.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_8": {
+        "German": "Auch deine Fotos haben sich gut entwickelt. Du zeigst ihnen deine spannenden Aufnahmen eurer Fahrt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_ee_4_d2_r3_9": {
+        "German": "Wow, du hast die Atmosphäre total gut eingefangen. Das sieht aus wie in einem Gemälde.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

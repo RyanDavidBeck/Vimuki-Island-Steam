@@ -1,0 +1,314 @@
+{
+    "d_intro_0": {
+        "German": "Ah, der Regenwald! Ein unberührtes Gebiet mit einer ungeheuer großen Artenvielfalt. Lianen schlängeln sich hier in vielfachen Variationen um Bäume und diverse Felsformationen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_intro_1": {
+        "German": "Einzigartige Insekten und Pflanzen sind hier an jeder Ecke anzutreffen. Aber Achtung, denn so idyllisch wie der Regenwald wirkt, ist er nicht. Er beherbergt eine Vielzahl von wilden Tieren und Gefahren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_0": {
+        "German": "Ihr durchstreift das grüne Dickicht des Regenwaldes und stößt plötzlich in den dunklen Untiefen auf seltsame Konstruktionen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_1": {
+        "German": "Ihr folgt einer rissigen, mit Hieroglyphen gespickten Mauer und landet letztendlich an einem mit Blumen zugewachsenen Eingang.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_2": {
+        "German": "Wieso befindet sich sowas mitten im Regenwald? Ihr untersucht die umliegenden Säulen und vermutet, dass vielleicht eine alte Zivilisation hinter diesen Ruinen steckt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_3": {
+        "German": "Nice, das muss ein Labyrinth sein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_4": {
+        "German": "Sind die nicht dafür bekannt, dass man sich darin verirrt?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_5": {
+        "German": "Du schaust in das Labyrinth hinein und bemerkst, wie die engen Pfade nach hinten immer verwinkelter werden. Na, ob das eine gute Idee ist? Was denkst du?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_o1": {
+        "German": "Labyrinth durchstreifen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_o2": {
+        "German": "Labyrinth von oben betrachten",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_o3": {
+        "German": "Hieroglyphen entziffern",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r1_0": {
+        "German": "Ihr durchstreift das Labyrinth wagemutig.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r1_1": {
+        "German": "Ich habe mal in einem Video gesehen, dass man bei so einem Teil immer nur nach rechts laufen muss! Dann findet man schon den Ausgang!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r1_2": {
+        "German": "Ihr folgt Chad tiefer in das Labyrinth hinein und du beginnst an der Methode zu zweifeln. Einige Felsen und Blätter kommen dir verdächtig bekannt vor.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r1_3": {
+        "German": "Sind wir hier nicht schon einmal gewesen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r1_4": {
+        "German": "Für mich sieht hier alles gleich aus. Aber der Typ im Video hat auch mal gesagt, dass man sich Wege markieren soll. Warte mal ...",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r1_5": {
+        "German": "Chad malt mit einem Stock ein großes X in die Erde, um die Stelle zu markieren. Ihr lauft weiter und landet 5 Minuten später wieder bei demselben X.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_0": {
+        "German": "Ihr sucht euch einen geeigneten Baum in eurer Nähe und klettert ihn ein wenig ungeschickt nach oben. Oben angekommen orientiert ihr euch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_1": {
+        "German": "Da, der Baum steht näher am Labyrinth!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_2": {
+        "German": "Ihr lauft gemeinsam die Äste entlang und sucht jedes Mal einen neuen Ast, der euch näher an das Labyrinth bringt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_3": {
+        "German": "Die Blätter der Baumkronen werden mit jedem Baum immer dichter und die Lianen versperren euch immer mehr die Sicht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_4": {
+        "German": "Uff, diese Äste sind ungewöhnlich stark verwinkelt. Ich sehe den Irrgarten gar nicht mehr.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_5": {
+        "German": "Ja geht mir auch so, alles ist grün oder braun und total zugewachsen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r2_6": {
+        "German": "Es wirkt so, als wäre über dem Labyrinth ein anderes Labyrinth gewachsen. Nach einer Weile wisst ihr überhaupt nicht mehr, wo ihr seid. Was tut ihr?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_0": {
+        "German": "Ihr betrachtet die mysteriösen Schriftzeichen noch einmal genauer. Zum Glück hat Suzan eine App dafür!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_0_b": {
+        "German": "Gemeinsam schaut ihr wie gebannt auf den kleinen Bildschirm, während das Programm die Schriftzeichen vor euch übersetzt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_1": {
+        "German": "\\LUL!?\\ Was soll denn das heißen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_2": {
+        "German": "Warte es geht noch weiter. Das ist nur ein Teil der Nachricht! \\Ihr findet ...\\",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_3": {
+        "German": "Ihr geht Schritt für Schritt den Zeichen hinterher und gelangt damit immer tiefer in das Labyrinth. Das tut ihr so lange, bis ihr schließlich bei dem letzten Schriftzeichen angekommen seid.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_4": {
+        "German": "Ich habs. Passt auf, hier steht folgendes: \\Lul, ihr findet hier nie heraus.\\",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d1_r3_5": {
+        "German": "Ist nicht dein Ernst? Das steht da? Was für ein Troll hat das denn geschrieben? Und er hat uns auch noch direkt in den blöden Irrgarten geführt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_6": {
+        "German": "Ihr habt euch wohl verlaufen. Was tut ihr nun?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_o1": {
+        "German": "Benutzt den Kompass",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_o2": {
+        "German": "Schritte rekonstruieren",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_o3": {
+        "German": "Chads Geheimwaffe!?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r1_0": {
+        "German": "Zum Glück kannst du Chad und Suzan beruhigen, denn zufälligerweise hast du einen Kompass dabei. Es war eine gute Idee ihn einzupacken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r1_1": {
+        "German": "Uff, zum Glück.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r1_2": {
+        "German": "Jetzt müssen wir hier nicht noch übernachten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r1_3": {
+        "German": "Mit Hilfe des Kompasses findet ihr schnell wieder heraus, da ihr euch nun orientieren könnt. Nach einigen Stunden herumirren, stapft ihr erschöpft durch das vor euch liegende Tor. Ihr habt einen Ausweg gefunden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r1_4": {
+        "German": "Wie ist das denn passiert? War das nicht der Eingang, in den wir gegangen sind?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r1_5": {
+        "German": "Egal, Hauptsache ihr seid unbeschadet und wieder auf direktem Wege zum Camp. Außerdem konntet ihr ein siegreiches Foto mit dem Kompass schießen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r2_0": {
+        "German": "Ihr versucht eure Schritte zu rekonstruieren und euren Weg zurückzufinden, dabei entdeckt ihr Fußspuren. Da ihr noch niemanden gesehen habt, liegt es nahe, dass es sich hierbei um eure eigenen handelt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r2_1": {
+        "German": "Die kommen mir aber etwas groß vor.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r2_2": {
+        "German": "Ja, und die hier sehen aus, wie von einem überdimensionalen Frosch, igitt. Moment mal, was ist denn das da im Gebüsch?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r2_3": {
+        "German": "Ihr folgt den vor euch liegenden Fußspuren zum Gebüsch und findet ein Schild mit einem Richtungspfeil. War das schon immer da? Nun fallen dir auch die restlichen Schilder hinter euch auf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r2_4": {
+        "German": "Wie konntet ihr diese nur übersehen? Ramponiert und genervt über eure Unaufmerksamkeit findet ihr den Weg in kürzester Zeit aus dem Labyrinth! Ihr habt sogar ein Foto von dem Schilderwahnsinn gemacht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r3_0": {
+        "German": "Chad lächelt euch siegessicher an und zieht seine Geheimwaffe aus seiner Hosentasche heraus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r3_1": {
+        "German": "Tadaaaa! Meine Profi-Friseurschere, die ist messerscharf. Mit der werde ich uns hier fix herausschneiden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r3_2": {
+        "German": "Seine Schere ist genauso messerscharf wie sein Verstand. Chad ist nun nicht mehr zu stoppen. Er schwingt seine Schere durch die mit Pflanzen zugewachsenen Lücken in den Mauern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r3_3": {
+        "German": "Ihr schaut ihm zweifelnd dabei zu. Hat er durch das Umherirren im Labyrinth den Kopf verloren?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r3_4": {
+        "German": "Überraschenderweise schafft es Chad erfolgreich einen Weg für euch freizukämpfen. Als ihr endlich an einer euch unbekannten Stelle des Labyrinths herauskommt, findet ihr euch in der Nähe des Camps wieder.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_ee_3_d2_r3_5": {
+        "German": "Puh, was ein Glück. Natürlich hast du von Chads heroischer Tat auch ein paar Bilder gemacht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

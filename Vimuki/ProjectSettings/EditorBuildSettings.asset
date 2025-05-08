@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/000_VimukiIsland/Scenes/MainMenu.unity
+    guid: 756aea80aab4c6f4d95479e78e26c1c4
+  - enabled: 1
+    path: Assets/000_VimukiIsland/Scenes/DisplayCases.unity
+    guid: 4ae8b263df2fedd4caa271dba7ccb469
+  - enabled: 1
+    path: Assets/000_VimukiIsland/Scenes/Galerie.unity
+    guid: 3dda8fd8d40b79d46a30247384812380
+  - enabled: 1
+    path: Assets/000_VimukiIsland/Scenes/VisualNovelScene.unity
+    guid: efc38b3c1ecea3244ba0dcfeb012c956
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7350d2515f7cf3740832a7b98fca82c2, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 99831885c3fc9fa42984b44e3e287d4d, type: 3}
+  m_UseUCBPForAssetBundles: 0

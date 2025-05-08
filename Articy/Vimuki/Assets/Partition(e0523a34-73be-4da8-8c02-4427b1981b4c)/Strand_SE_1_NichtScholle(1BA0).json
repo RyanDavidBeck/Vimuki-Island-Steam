@@ -1,0 +1,608 @@
+{
+    "s_se_1_ns_0": {
+        "German": "Du bemerkst, wie jemand an dir rüttelt. Träge und angeschlagen öffnest du deine Augen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_1": {
+        "German": "Es ist Suzan, die mit bleichem Gesicht neben dir und Chad sitzt, der noch nicht bei Bewusstsein ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_2": {
+        "German": "Ein Glück, du bist wach! Hilf mir mal mit Chad.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_3": {
+        "German": "Du schaust nach Chad. Zum Glück atmet er noch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_4": {
+        "German": "Chad! Wach auf! Ich hab da jetzt keinen Nerv für! Steh jetzt auf, wir haben ein Problem.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_5": {
+        "German": "Schläfrig blinzelt Chad zu euch und hält sich seinen schmerzenden Kopf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_6": {
+        "German": "Welches denn? Was ist denn passiert und wo sind wir hier eigentlich?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_7": {
+        "German": "Gute Frage. Ihr schaut euch in der Umgebung um.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_8": {
+        "German": "Keine Ahnung, anscheinend sind wir in einer Zelle.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_9": {
+        "German": "Stimmt, das Letzte, das du mitbekommen hast, ist, dass dich etwas unter Wasser gezogen hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_10": {
+        "German": "Moment. Unter Wasser?! Du schnappst erschrocken nach Luft. Und tatsächlich. Aus irgendeinem Grund kannst du hier atmen!?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_11": {
+        "German": "Vielleicht eine Art Zauber? Du weißt es nicht, aber ihr solltet zuerst versuchen zu entkommen und euch dann darüber Gedanken machen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_12": {
+        "German": "Du schaust dich um. Anscheinend hat euch die Meerfrau in einen goldenen, überdimensionalen Käfig gesteckt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_13": {
+        "German": "Chad rüttelt an den goldenen Gitterstäben.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_14": {
+        "German": "Fest zu. Was ist das hier? Warum sind wir gefangen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_15": {
+        "German": "Naja, wenn ich mir alte Sagen so in den Kopf rufe, wahrscheinlich für ihr Mittagessen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_16": {
+        "German": "Alter, WAS?! Wir müssen sofort hier raus! Ich will nicht gefressen werden!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_17": {
+        "German": "Auch du würdest es vorziehen nicht verspeist zu werden. Was tut ihr?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_o1": {
+        "German": "Um Hilfe rufen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_o2": {
+        "German": "Käfigschloss inspizieren",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_o3": {
+        "German": "Euch totstellen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_0": {
+        "German": "HALLO! IST DA WER?! HILFE! WIR WURDEN ENTFÜHRT!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_1": {
+        "German": "Verwundert darüber, woher dieser Lärm kommt, nähert sich eine Wache eurem Käfig. Euch fällt auf, dass die Wache einen Schlüssel bei sich trägt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_2": {
+        "German": "Vermutlich ist das der Schlüssel zu eurem Gefängnis. Das ist eure Chance!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_3": {
+        "German": "Grinsend deutet Suzan unauffällig auf den Schlüssel und Chad nickt ihr ernst zu. Auch dir ist klar, ihr müsst den Schlüssel diesem Fischmann abnehmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_4": {
+        "German": "Was schreit ihr hier so rum, ihr Luftatmer?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_5": {
+        "German": "AHHH, dieser SCHMERZ! ICH STERBE.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_6": {
+        "German": "Die Wache schwimmt nun zügig zu eurem Käfig, sperrt diesen auf und sucht skeptisch Chads Körper nach irgendwelchen Verletzungen ab.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_7": {
+        "German": "Suzan, die sich unscheinbar in einer Ecke neben dem Tor bereithält, nutzt diese Gelegenheit und schleicht sich hinter die Wache.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_8": {
+        "German": "Mit flinken Fingern stibitzt sie ihr den Schlüssel und versteckt diesen schnell in ihrer Hosentasche.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_9": {
+        "German": "Genau in diesem Moment dreht sich die Wache um und schwimmt wieder zurück zu ihrem Posten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_10": {
+        "German": "Da ist absolut nichts! Du bist unversehrt! Was soll das Geschrei? Keine Späßchen mehr! Verstanden?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_11": {
+        "German": "Wütend schmeißt die Wache die Käfigtür hinter sich zu und schwimmt wieder zurück zu ihrem Posten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_12": {
+        "German": "Zum Glück hat der Meermensch nichts von eurer Aktion mitbekommen. Jetzt könnt ihr in Ruhe fliehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_13": {
+        "German": "Ihr schafft es euch unbemerkt aus der Zelle zu schleichen. Auf dem Weg zum Ausgang erkundet ihr das Gebäude.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_14": {
+        "German": "Es handelt sich hier wohl um einen riesigen Palast. Ihr seht lauter prunkvolle Statuen und ein paar goldene mit leuchtenden Perlen bestückte Lampen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_15": {
+        "German": "Hammer! Das kommt gut in meinem nächsten Vlog.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_16": {
+        "German": "Alter, Chad! Fass hier bloß nix an, sonst entdeckt uns noch jemand.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_17": {
+        "German": "Ist ja gut.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_18": {
+        "German": "Er rollt mit den Augen. Außerhalb des Palastes findet ihr euch in einer dicht bevölkerten Unterwasserstadt wieder.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_19": {
+        "German": "Heimlich zwängt ihr euch durch die engen, dunklen Gassen, um nicht aufzufallen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r1_20": {
+        "German": "Zum Glück werdet ihr von niemandem bemerkt und schafft es aus der Stadt zu fliehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_0": {
+        "German": "Ihr untersucht das Schloss und euch fällt auf, dass dieses nur aus festen Korallen besteht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_1": {
+        "German": "Das breche ich doch locker auf!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_2": {
+        "German": "Nimm lieber ein Hilfsmittel, Korallen sind ziemlich fest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_3": {
+        "German": "Suzan reicht Chad ein Stück von einem Felsen, das auf dem Meeresboden eurer Zelle lag.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_4": {
+        "German": "Motiviert schnappt er ihn sich und schlägt fest auf das Schloss ein. Die Zellentür wackelt dabei wild hin und her.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_5": {
+        "German": "Los, Chad, nochmal!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_6": {
+        "German": "Mit aller Kraft schlägt Chad auf das Korallen-Schloss ein. Plötzlich zerspringt es mit einem lauten Krachen in tausend Teile.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_7": {
+        "German": "Es dauert nicht lange, bis eine Wache vor eurer Zelle steht, um nach dem Ursprung des Lärms zu schauen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_8": {
+        "German": "Mist. Der Ausbruchsversuch ist gescheitert! Du wechselst fix einen Blick mit Suzan und Chad.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r2_9": {
+        "German": "Das ist eure einzige Chance! Gemeinsam flieht ihr aus eurer Zelle.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_0": {
+        "German": "Ihr entschließt euch dazu, euch tot zu stellen. Langsam lasst ihr euch auf den Meeresboden sinken und versucht euch möglichst wenig zu bewegen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_1": {
+        "German": "Nun ist es vollkommen leise in eurer Zelle. So ungewöhnlich leise, dass die Wache auf euch aufmerksam wird.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_2": {
+        "German": "Die Wache betritt eure Zelle, sperrt eure Käfigtür auf und betrachtet euch skeptisch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_3": {
+        "German": "Der Meermensch holt mit dem Ende seines Dreizacks aus und stupst Chad in die Seite.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_4": {
+        "German": "Plötzlich fängt Chad an unkontrolliert zu lachen. Natürlich musste die Wache ausgerechnet in seiner Seite rumstochern!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_5": {
+        "German": "MENSCH! Lass das, ich bin da voll kitzlig!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_6": {
+        "German": "Mist. Der Ausbruchsversuch ist gescheitert! Du wechselst fix einen Blick mit Suzan und Chad.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_7": {
+        "German": "Die Wache hat das Tor offen stehen lassen. Das ist eure Chance!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_r3_8": {
+        "German": "Gemeinsam mit Suzan greifst du Chad am Arm, um so schnell wie möglich aus der Zelle zu schwimmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_miss_0": {
+        "German": "Die Wache ist euch dicht auf den Fersen und scheucht euch durch die Gänge des Palastes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_miss_1": {
+        "German": "Was machen wir denn jetzt!?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_miss_2": {
+        "German": "Keine Ahnung.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_miss_3": {
+        "German": "Vor lauter Panik kannst du nicht mehr klar denken. Auf einmal endet der Gang in einer Gabelung mit einem Schild, das nach rechts und links zeigt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d1_miss_4": {
+        "German": "Auf der linken Seite ist ein Bild mit einem Tor und auf der rechten Seite ein Bild mit Quallen. In welche Richtung schwimmt ihr?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_o1": {
+        "German": "Links",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_o2": {
+        "German": "Rechts",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_0": {
+        "German": "Ihr schwimmt nach links. Die dunklen Steinwände des Gefängnisses werden von den prunkvoll verzierten Gängen eines Palastes abgelöst.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_1": {
+        "German": "Und genauso wie ihr es euch gedacht habt, entdeckt ihr am Ende des Flurs ein Tor. Das ist bestimmt der Ausgang!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_2": {
+        "German": "Panisch flieht ihr aus dem Palast und in die Stadt hinein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_3": {
+        "German": "Wohin jetzt?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_4": {
+        "German": "Da hinten, in die dunkle Gasse!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_5": {
+        "German": "Ihr gleitet zu der dunklen Gasse. Gerade noch rechtzeitig. Die Wachen, die euch eben noch verfolgt haben, stürmen an euch vorbei.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_6": {
+        "German": "Knappe Kiste…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_7": {
+        "German": "Heimlich zwängt ihr euch durch die engen, dunklen Gassen, um nicht aufzufallen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r1_8": {
+        "German": "Zum Glück werdet ihr von niemandem bemerkt und schafft es aus der Stadt zu fliehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_0": {
+        "German": "Ihr schwimmt nach rechts und landet draußen in einem Wald ... aus Algen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_1": {
+        "German": "ENDLICH!!!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_2": {
+        "German": "Leute, schaut mal nach oben.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_3": {
+        "German": "Über euch befinden sich lauter elektrisch geladene Quallen, die langsam zu euch nach unten sinken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_4": {
+        "German": "Ihr seid wohl im königlichen Quallengarten gelandet.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_5": {
+        "German": "Wir müssen hier sofort weg.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_6": {
+        "German": "Verängstigt schaut Suzan euch an, aber euch muss sie das nicht zweimal sagen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_7": {
+        "German": "Panisch schwimmt ihr durch den Algenwald und weg von den Quallen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_8": {
+        "German": "Doch diese beinlosen Geschöpfe können schneller schwimmen als ihr dachtet.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_9": {
+        "German": "Ein paar ihrer Tentakel streifen euren Körper und hinterlassen lange rote Striemen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_d2_r2_10": {
+        "German": "Unter Schmerzen kämpft ihr euch durch den mit Quallen verseuchten Algenwald und landet irgendwo mitten im Meer.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_0": {
+        "German": "Zumindest habt ihr es aus dieser Todesfalle geschafft.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_1": {
+        "German": "So schnell ihr könnt, schwimmt ihr zur nächsten Küste, die sich als Strand der VIMUKI-Insel erweist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_2": {
+        "German": "Müde und erschöpft, aber unversehrt, kommt ihr am Ufer an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_3": {
+        "German": "Ohhh ... fester Boden ... ich liebe dich.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_4": {
+        "German": "Ich kann nicht mehr.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_5": {
+        "German": "Jetzt mach nicht so, ein wenig Sport tut doch gut.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_gut_6": {
+        "German": "Zusammen fangt ihr an zu lachen, was für ein seltsamer Tag. Zurück im Camp legt ihr euch in eure Feldbetten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_schlecht_0": {
+        "German": "Ich weiß überhaupt nicht mehr, wo wir sind.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_schlecht_1": {
+        "German": "Lass uns einfach an die Wasseroberfläche schwimmen! Vielleicht können wir uns so orientieren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_schlecht_2": {
+        "German": "Das ist eigentlich eine wirklich gute Idee. Ihr taucht an die Wasseroberfläche und entdeckt dort tatsächlich einen Strand.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_schlecht_3": {
+        "German": "Ein Glück!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_schlecht_4": {
+        "German": "Angeschlagen schwimmt ihr zum gesichteten Ufer. Erleichtert stellt ihr fest, dass es sich dabei um den Strand der VIMUKI-Insel handelt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_1_ns_schlecht_5": {
+        "German": "Die Meermenschen leben wohl nicht weit von der Insel entfernt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

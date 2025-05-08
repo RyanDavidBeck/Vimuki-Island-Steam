@@ -1,0 +1,626 @@
+{
+    "d_intro_0": {
+        "German": "Ah, der Regenwald! Ein unberührtes Gebiet mit einer ungeheuer großen Artenvielfalt. Lianen schlängeln sich hier in vielfachen Variationen um Bäume und diverse Felsformationen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_intro_1": {
+        "German": "Einzigartige Insekten und Pflanzen sind hier an jeder Ecke anzutreffen. Aber Achtung, denn so idyllisch, wie der Regenwald wirkt, ist er nicht. Er beherbergt eine Vielzahl von wilden Tieren und Gefahren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_0": {
+        "German": "Ihr entscheidet euch dafür den heutigen Tag im angrenzenden Regenwald zu verbringen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_1": {
+        "German": "In aller Frühe bereitet ihr euren Ausflug vor und marschiert in einen euch noch unbekannten Abschnitt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_2": {
+        "German": "Das Blätterdach über euch wird immer dichter, je tiefer ihr in das unerforschte Gebiet eindringt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_3": {
+        "German": "Fühlt ihr euch auch so ... unwohl?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_4": {
+        "German": "Naja es ist ziemlich warm hier. Ist dir vielleicht schwindlig?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_5": {
+        "German": "Nein, das ist es nicht. Fühlt ihr euch auch irgendwie beobachtet?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_6": {
+        "German": "Jetzt wo Suzan es anspricht, musst du zugeben, dass dich das unangenehme Gefühl angestarrt zu werden bereits eine Weile verfolgt hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_7": {
+        "German": "Wenn es dir wirklich Angst macht, könnten wir uns auch umsehen. Wer soll denn hier sein außer uns dreien?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_8": {
+        "German": "Wo willst du suchen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_o1": {
+        "German": "Auf dem Boden",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_o2": {
+        "German": "In der Umgebung",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_0": {
+        "German": "Wenn hier wirklich jemand sein sollte, dann hätte er oder sie doch Spuren hinterlassen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_1": {
+        "German": "Ihr entschließt euch dazu auf der Erde nach Spuren zu suchen und so eure:n vermeintliche:n Beobachter:in aufzuspüren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_2": {
+        "German": "Erst nach einiger Zeit stoßt ihr auf einen auffälligen Fußabdruck.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_3": {
+        "German": "Ihr folgt den Fußspuren zu einer auffälligen Stelle auf dem Waldboden, die komplett mit Laub bedeckt ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_4": {
+        "German": "Was ist denn mit diesen Blättern los? Die sind ja total bunt!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_5": {
+        "German": "Sind das überhaupt Blätter?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_6": {
+        "German": "Ihr betrachtet das Laub, das sich wie Papier anfühlt und oberflächlich mit bunter Farbe beträufelt wurde.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_7": {
+        "German": "Ihr geht näher, um euch die Blätter genauer anzusehen. Doch in dem Moment, in dem ihr die Laubfläche betretet, stürzt ihr in die Tiefe.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_8": {
+        "German": "Ihr stürzt in ein tiefes Loch und landet auf dem schlammigen Boden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_9": {
+        "German": "Gab es einen Erdrutsch? Nein! Da hat tatsächlich jemand ein Loch gegraben!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_10": {
+        "German": "Was für eine bodenlose Frechheit! Wer gräbt denn Löcher mitten im Regenwald?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r1_11": {
+        "German": "Vielleicht wollte jemand sich so etwas zu Essen fangen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_0": {
+        "German": "Ihr entschließt euch, den/die vermeintliche:n Beobachter:in in eurer Umgebung zu suchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_1": {
+        "German": "Habt ihr schon etwas gefunden?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_2": {
+        "German": "Nein, nichts. Das war sicher nur ein Tier. Ich würde uns auch für bedrohlich halten. Wir sind schließlich HOT!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_3": {
+        "German": "In der Nähe wurde etwas mit bunter Farbe an einen Baum geschmiert. Es ist ein verdächtig leuchtender, blauer Handabdruck.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_4": {
+        "German": "Was hast du denn da gefunden?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_5": {
+        "German": "Ist das Farbe?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_6": {
+        "German": "Suzan berührt den blauen Abdruck mit den Fingerspitzen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_7": {
+        "German": "Die ist ja noch feucht! Hier ist definitiv jemand vor Kurzem vorbeigegangen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_8": {
+        "German": "Ihr drängt euch nervös aneinander und beobachtet die Umgebung.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_9": {
+        "German": "Ihr seid dabei sogar so konzentriert, dass ihr gar nicht mehr darauf achtet, wohin ihr tretet!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_10": {
+        "German": "Plötzlich werdet ihr hoch in die Lüfte katapultiert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_11": {
+        "German": "Ihr findet euch in den Wipfeln der Bäume wieder, von denen ihr in einem riesigen Fischernetz herabbaumelt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_12": {
+        "German": "Nervös und orientierungslos versucht ihr euch zurechtzufinden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_13": {
+        "German": "Mit Chads Knie in deinem Gesicht und Suzans Fuß in deinem Bauch fällt dir das allerdings äußerst schwer.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_14": {
+        "German": "Wer stellt hier bitte Fallen auf?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d1_r2_15": {
+        "German": "Ein:e Jäger:in vielleicht?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_9": {
+        "German": "Und was machen wir jetzt?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_10": {
+        "German": "Gute Frage, wenn jemand diese Falle errichtet hat, würde die Person doch früher oder später nachschauen, ob etwas in die Falle gegangen ist, oder?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_11": {
+        "German": "Das kann aber dauern. Manchmal sogar Tage!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_12": {
+        "German": "Was wollen wir denn jetzt machen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_13": {
+        "German": "Ihr schaut einander ernst an. Ihr müsst dringend aus dieser Falle entkommen. Aber wie?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_o1": {
+        "German": "Nach Hilfe rufen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_o2": {
+        "German": "Versuchen zu entkommen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_o3": {
+        "German": "Abwarten und nichts tun.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_0": {
+        "German": "Ihr beschließt nach Hilfe zu rufen. Vielleicht ist der/die Fallensteller:in noch in der Umgebung! Doch niemand reagiert.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_1": {
+        "German": "Wir müssen uns dringend befreien. Lasst es uns weiter versuchen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_2": {
+        "German": "HALLO! IRGENDWER! HÖREN SIE UNS?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_3_fall": {
+        "German": "Ihr schaut gespannt nach oben zum Rand der Grube. Von Weitem könnt ihr Schritte hören, die sich langsam dem Rand der Grube nähern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_4_fall": {
+        "German": "Eine seltsame Gestalt taucht auf und beobachtet euch neugierig.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_3_spring": {
+        "German": "Dann hört ihr es. Ein leises Rascheln im Gebüsch unter euch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_4_spring": {
+        "German": "Gespannt beobachtet ihr die eigenartige Gestalt, die sich aus dem dichten Gebüsch herauskämpft und neugierig zu euch hochblickt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_5": {
+        "German": "Gott sei Dank! Die Person kann euch bestimmt aus eurer Lage befreien!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_6": {
+        "German": "Hallo! Könnten Sie uns bitte helfen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_7": {
+        "German": "Ja, das wäre voll nice.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_8": {
+        "German": "Allerdings verharrt die Gestalt regungslos.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_9": {
+        "German": "Was macht ihr da in meiner Falle?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_10": {
+        "German": "Ihre Falle? Warum stellen sie hier Fallen auf?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_11": {
+        "German": "Um ... etwas zu fangen? Warum sollte man sonst Fallen aufstellen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r1_12": {
+        "German": "Du betrachtest das Geschöpf. Dabei schießen dir Fragen durch den Kopf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_0": {
+        "German": "Ihr müsst irgendwie aus dieser Falle entkommen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_1": {
+        "German": "Vielleicht könnt ihr ja einfach aus der Grube klettern?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_2": {
+        "German": "Einen Versuch ist es wert! Chad stellt sich vor die steile Wand der Grube und versucht sich hinaufzustemmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_3": {
+        "German": "Langsam und stetig kann er an Höhe gewinnen nur um dann im nächsten Moment wieder hinabzurutschen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_4": {
+        "German": "Das können wir vergessen. Ich finde keinen Halt an dieser Wand. Verdammt, ey!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_5": {
+        "German": "Ich sehe auch keine Pflanzen, die in das Loch hineinwachsen. An denen hätten wir uns sicher hochziehen können.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_6": {
+        "German": "Du schaust zur Kante der Fallgrube. Vielleicht könntet ihr die Kante der Grube erreichen, wenn ihr euch nur aufeinanderstellt?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_7": {
+        "German": "Dann könnte zumindest einer von euch Hilfe holen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_8": {
+        "German": "Chad steht ganz unten und du steigst auf seine Schultern. Da Suzan die leichteste von euch ist, soll sie die Spitze bilden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_9": {
+        "German": "Funktioniert es?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_10": {
+        "German": "Nicht wirklich! Ich komme nicht an die Kante!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_11": {
+        "German": "Vielleicht wenn ich mich auf die Zehenspitzen stelle!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_12": {
+        "German": "Er streckt sich. Seine Beine beben vor Anstrengung, bis sie letztendlich versagen und Chad einknickt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_13": {
+        "German": "Ihr verliert das Gleichgewicht und stürzt erneut in die Fallgrube.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_14": {
+        "German": "Euer Aufprall hat jedoch die Aufmerksamkeit von jemandem auf sich gezogen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_fallgrube_15": {
+        "German": "Ihr könnt Schritte außerhalb der Grube wahrnehmen. Eine seltsame Gestalt taucht am Rand der Fallgrube auf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_1": {
+        "German": "Vielleicht können wir das Netz ja irgendwie zerschneiden?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_2": {
+        "German": "Das sieht aber echt robust aus…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_3": {
+        "German": "Versuchen wir's einfach!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_4": {
+        "German": "Chad zieht seine Nagelschere aus seiner Hosentasche und beginnt damit das Netz mit den kleinen Klingen aufzutrennen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_5": {
+        "German": "Warte, ich glaube, ich hab was Besseres! Lass mich mal!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_6": {
+        "German": "Sie kramt in ihren Taschen und holt ein kleines Taschenmesser heraus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_7": {
+        "German": "Chad schneidet, reißt und bohrt an dem Netz herum, aber leider gibt es nicht nach.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_8": {
+        "German": "Was ist das denn für ein Material? Ich komm da so gar nicht durch!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_9": {
+        "German": "Einige Momente später kannst du jedoch Schritte unter euch wahrnehmen, die immer näher kommen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r2_springfalle_10": {
+        "German": "War das vielleicht die erhoffte Rettung? Eine Gestalt tritt aus dem Grünen heraus und schaut neugierig zu euch hoch.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_uebergang_ohne_hilfe_0": {
+        "German": "Das war doch sicher der/die Fallensteller:in!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_uebergang_ohne_hilfe_1": {
+        "German": "Was macht ihr da in meiner Falle?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_uebergang_ohne_hilfe_2": {
+        "German": "Ihre Falle? Warum stellen sie hier Fallen auf?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_uebergang_ohne_hilfe_3": {
+        "German": "Um ... etwas zu fangen? Warum sollte man sonst Fallen aufstellen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_uebergang_ohne_hilfe_4": {
+        "German": "Die Gestalt blinzelt euch verwundert entgegen und macht keine Anstalten euch aus eurer misslichen Lage zu befreien.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_0": {
+        "German": "Das war doch sinnlos! Es wäre viel besser in Ruhe abzuwarten bis jemand an der Falle vorbeiläuft und euch bemerkt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_1": {
+        "German": "Wenn ihr zu viel Lärm macht, lockt ihr vielleicht noch wilde Tiere an!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_2": {
+        "German": "Dir wird mulmig bei dem Gedanken gefressen zu werden. Das steht garantiert nicht auf deiner Bucket-List.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_3": {
+        "German": "Und wenn es Tage dauert bis hier jemand vorbeikommt?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_4": {
+        "German": "Zum Glück dauert euer unfreiwilliger Aufenthalt in der Falle doch nicht so lange wie gedacht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_5": {
+        "German": "Es vergehen nur einige Stunden, bis ihr dumpfe Schritte hört, die langsam auf euch zusteuern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_fallgrube_6": {
+        "German": "Ihr schaut gespannt nach oben zum Rand der Grube und tatsächlich!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_fallgrube_7": {
+        "German": "Eine seltsame Gestalt taucht am Loch auf und betrachtet euch neugierig.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "d_se_1_d2_r3_springfalle_6": {
+        "German": "Aus dem Gebüsch tritt eine eigenartige Gestalt hervor, die neugierig zu euch hinunter blickt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

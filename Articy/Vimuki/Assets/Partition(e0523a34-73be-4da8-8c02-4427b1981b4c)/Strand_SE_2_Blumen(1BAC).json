@@ -1,0 +1,920 @@
+{
+    "s_se_2_blume_0": {
+        "German": "Scholle braucht also einen Blumenstrauß, doch wo findet ihr die passenden Blumen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_1": {
+        "German": "Ihr wollt gerade losschwimmen, um ein paar Pflanzen zu suchen, da räuspert sich auch schon der Leutnant.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_2": {
+        "German": "Wo wollt ihr denn hin? Ich hab euch noch gar nicht gesagt, wo die Blumenläden sind.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_3": {
+        "German": "Außerdem braucht ihr doch noch Geld. Oder denkt ihr, ich lasse euch das bezahlen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_4": {
+        "German": "Scholle zeigt euch die Richtung zum Marktplatz der Unterwasserstadt und drückt euch ein paar glänzende Perlen in die Hände.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_5": {
+        "German": "Zusammen schwimmt ihr zum besagten Platz und findet drei Blumenläden, die Tür an Tür zusammenstehen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_7": {
+        "German": "Blättrige Pflanzen, farnartige Pflanzen und schwimmende Pflanzen. Die Läden sehen fast gleich aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_8": {
+        "German": "Und welcher davon ist jetzt der Beste?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_9": {
+        "German": "Doch zum Glück weißt du genau, wo ihr die Blumen kaufen sollt, nämlich bei…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_o1": {
+        "German": "Blättrige Pflanzen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_o2": {
+        "German": "Farnartige Pflanzen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_o3": {
+        "German": "Schwimmende Pflanzen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_0": {
+        "German": "Willkommen bei Blättrige Pflanzen hier findet ihr stabile und blättrige Pflanzen. Welche Blumen würdet ihr gerne in einem Strauß sehen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_1": {
+        "German": "Ihr erzählt der Verkäuferin, dass ihr einen Brautstrauß für die königliche Hochzeit besorgen wollt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_2": {
+        "German": "Sie bietet euch zwei Strauß-Varianten an, die sie gerade auf Lager hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_3": {
+        "German": "Ihr dürft zwischen einem Strauß mit lichtscheuen Staurogynen und einem Strauß mit wuchernden Zwergwasserkelchen wählen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_4": {
+        "German": "Die Staurogynen passen besser zu Scholles Schwarm. Die schimmern genau wie ihre Schuppen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_5": {
+        "German": "Die sind aber lichtscheu, die können wir nicht nehmen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_6": {
+        "German": "Ja, aber die anderen Dinger sehen voll langweilig aus. Die sind doch nur grün.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r1_7": {
+        "German": "Du bist dir auch etwas unsicher, aber ihr braucht unbedingt noch heute einen Strauß für die Hochzeit. Also, was wählst du?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_o1": {
+        "German": "Zwergwasserkelche",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_o2": {
+        "German": "Staurogynen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_0": {
+        "German": "Ihr schnappt euch den Strauß mit den Zwergwasserkelchen, bezahlt mit den Perlen, die euch Scholle mitgegeben hat, und schwimmt zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_1": {
+        "German": "Chad sieht nicht wirklich zufrieden aus, doch auf dem Weg wachsen die Pflanzen immer weiter.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_2": {
+        "German": "Sogar ein paar wunderschöne bunte Blüten bilden sich zwischen den einzelnen Blättern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_3": {
+        "German": "Was geschieht hier?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_4": {
+        "German": "Tja, deswegen heißen sie wuchernde Zwergwasserkelche.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_5": {
+        "German": "Der Leutnant wartet bereits vor dem Altar auf euch, um den Blumenstrauß zu begutachten. Unsicher zeigt ihr ihm euren Kauf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_6": {
+        "German": "Ein dickes Ding. Wo habt ihr die denn aufgegabelt, die sind ja noch voll im Wachstum.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_7": {
+        "German": "Sind das etwa Zwergwasserkelche? Bis zur Hochzeit werden die richtig aufgeblüht sein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r1_8": {
+        "German": "Ein Glück, der Strauß kommt wohl gut an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_0": {
+        "German": "Ihr schnappt euch den Strauß mit den Staurogynen, bezahlt mit den Perlen, die euch Scholle mitgegeben hat, und schwimmt zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_1": {
+        "German": "Auf dem Weg dorthin passiert jedoch etwas Unvorstellbares!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_2": {
+        "German": "Was ist denn das!? Die fangen ja an zu welken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_3": {
+        "German": "Ich hab doch gesagt, dass sie lichtempfindlich sind!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_4": {
+        "German": "Ja, aber nicht, dass sie gleich beim ersten Lichtstrahl eingehen! Was machen wir denn jetzt?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_5": {
+        "German": "Wir müssen sie irgendwie vor dem Licht schützen. Aber wie?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_6": {
+        "German": "Ich hab hier nur meinen Rucksack! Oder warte, Moment! Ich hab noch Sonnencreme!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d2_r2_7": {
+        "German": "Du bist dir sicher, dass einer der Gegenstände euch dabei helfen kann die Pflanze zu retten. Doch welcher?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_o1": {
+        "German": "In den Rucksack",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_o2": {
+        "German": "Sonnencreme",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_0": {
+        "German": "Chad schnappt sich den Blumenstrauß und stopft ihn panisch in den Rucksack.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_1": {
+        "German": "Dafür braucht er unerwartet viel Kraft, denn die störrischen Pflanzen lassen sich nicht so einfach in die prall gefüllte Tasche drücken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_2": {
+        "German": "Plötzlich fängt Chads Rucksack an zu leuchten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_3": {
+        "German": "Was hast du denn da alles drin?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_4": {
+        "German": "Ja nur das Nötigste halt! Meine Nagelschere, meine Sonnencreme, mein UV-Licht…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_5": {
+        "German": "UV-LICHT!?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_6": {
+        "German": "Ja, ich will doch auch an Regentagen schön braun bleiben.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_7": {
+        "German": "Chad, die Pflanzen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_8": {
+        "German": "Suzan zerrt den Blumenstrauß aus Chads Rucksack. Bedauerlicherweise hat die Pflanze das UV-Licht nicht überlebt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_9": {
+        "German": "Sie ist komplett verwelkt. Enttäuscht schwimmt ihr zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_10": {
+        "German": "Leutnant Scholle wartet bereits am Altar auf euch, um den Blumenstrauß zu begutachten. Unsicher zeigt ihr ihm die Katastrophe.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_11": {
+        "German": "Das ist doch kein Brautstrauß, sondern nur verdorrter Biomüll! Das sieht ja aus wie die Dekoration eines Geisterschiffs.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_12": {
+        "German": "Sowas kann ich Enya nicht in die Hand drücken!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_13": {
+        "German": "Scholle wirft die Blumen in hohem Bogen über seine Schulter.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_14": {
+        "German": "Leider hat die Braut wegen euch jetzt keinen Blumenstrauß.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r1_15": {
+        "German": "Zum Glück können die Dienstfische aus einem Teil der Dekoration einen provisorischen Blumenstrauß herrichten, sodass die Braut nicht leer ausgeht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_0": {
+        "German": "Suzan schnappt sich den Blumenstrauß und reibt diesen sorgfältig mit der Sonnencreme ein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_1": {
+        "German": "Er ist jetzt zwar etwas fettig, aber die Blume scheint sich zu erholen, sogar die Blüten beginnen in einem leuchtenden Lila zu schimmern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_2": {
+        "German": "Motiviert schwimmt ihr zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_3": {
+        "German": "Leutnant Scholle wartet bereits am Altar auf euch, um den Blumenstrauß zu begutachten. Unsicher zeigt ihr ihm euren Kauf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_4": {
+        "German": "Donnerlittchen, sind das etwa lichtscheue Staurogynen? Aber die Sonne scheint doch. Wie habt ihr das denn angestellt?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_5": {
+        "German": "Suzan hält dem Leutnant grinsend die Flasche Sonnencreme entgegen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_6": {
+        "German": "Ha! Na, ihr seid mir ja welche. Nicht schlecht. Mein Seegürkchen wird sich tierisch freuen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d3_r2_7": {
+        "German": "Ihr konntet den Blumenstrauß noch retten! Auch der Leutnant sieht sehr zufrieden aus. Enya wird sich sicher über die Blumen freuen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_0": {
+        "German": "Willkommen bei Farnartige Pflanzen hier findet ihr zarte und farnartige Pflanzen. Welche davon möchtet ihr kaufen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_1": {
+        "German": "Ihr erzählt der Verkäuferin dass ihr einen Brautstrauß für die königliche Hochzeit besorgen wollt. Sie bietet euch zwei Varianten an, die sie gerade auf Lager hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_2": {
+        "German": "Ihr dürft zwischen einem Strauß mit sensiblem Seidenfarn oder einem Strauß mit schwarzem Friedhofsfarn wählen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_3": {
+        "German": "Schwarzer Friedhofsfarn!? Den kenn ich, der ist richtig hübsch und total metal!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_4": {
+        "German": "Du, ich glaube, schwarz trägt man auf Beerdigungen und nicht auf Hochzeiten. Komm, wir nehmen lieber die anderen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_5": {
+        "German": "Die sehen aber zerbrechlich aus. Glaubst du, wir können sie unbeschadet zur Hochzeit bringen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r2_6": {
+        "German": "Du bist dir auch etwas unsicher, aber ihr braucht unbedingt noch heute einen Strauß für die Hochzeit. Also, was wählst du?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_o1": {
+        "German": "Friedhofsfarn",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_o2": {
+        "German": "Seidenfarn",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r1_0": {
+        "German": "Ihr schnappt euch den Strauß mit dem Friedhofsfarn, bezahlt mit den Perlen, die euch Scholle mitgegeben hat, und schwimmt zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r1_1": {
+        "German": "Leutnant Scholle wartet bereits vor dem Altar auf euch, um den Blumenstrauß zu begutachten. Unsicher zeigt ihr ihm euren Kauf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r1_2": {
+        "German": "Schwarze Blumen? Beim Klabautermann! Das ist doch Friedhofsfarn!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r1_3": {
+        "German": "Scholle erklärt euch, dass Friedhofsfarn eine richtig seltene Pflanze ist. Schließlich erstrahlt die Unterwasserwelt in vielen bunten Facetten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r1_4": {
+        "German": "Eure Blumenstraußwahl ist wohl ein Volltreffer! Die Prinzessin wird überglücklich über diese seltene Pflanze sein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_0": {
+        "German": "Ihr schnappt euch den Strauß mit dem Seidenfarn, bezahlt mit den Perlen, die euch Scholle mitgegeben hat, und schwimmt zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_1": {
+        "German": "Leider passiert das, was Suzan bereits vermutet hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_2": {
+        "German": "Ähh Leute, der Strauß fällt auseinander!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_3": {
+        "German": "Tatsächlich, der zarte Seidenfarn, ist doch zerbrechlicher, als ihr angenommen habt. Er hat gerade mal die Hälfte eures Rückwegs überstanden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_4": {
+        "German": "Wir müssen ihn irgendwie stabilisieren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_5": {
+        "German": "Da drüben sind Algen! Alternativ hätte ich noch das hier ...",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_6": {
+        "German": "Chad kramt einen alten Schnürsenkel aus seiner Tasche. Suzan guckt ihn nur entgeistert an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_7": {
+        "German": "Was denn?! Das ist mein Glücksbringer.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d4_r2_8": {
+        "German": "Ok, alter Schnürsenkel oder klebrige Algen? Womit wollt ihr den Blumenstrauß retten?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_o1": {
+        "German": "Schnürsenkel",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_o2": {
+        "German": "Algen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_0": {
+        "German": "Selbstverständlich nehmt ihr den Schnürsenkel. Die klebrigen Algen würden den Blumenstrauß nur weiter zerstören.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_1": {
+        "German": "Chad schnappt sich seinen langen Glücksbringer und wickelt damit die Pflanzen so fest zusammen, dass sie sich gegenseitig sichern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_2": {
+        "German": "Unsicher schwimmt ihr zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_3": {
+        "German": "Leutnant Scholle wartet bereits am Altar auf euch, um den Blumenstrauß zu begutachten. Zögernd zeigt ihr ihm euren Kauf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_4": {
+        "German": "Ist das etwa Seidenfarn? Ein Wunder, dass ihr ihn heil herbringen konntet!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_5": {
+        "German": "Der geht doch bei allem direkt kaputt. Wie habt ihr das denn geschafft?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_6": {
+        "German": "Ihr weist ihn auf den Schnürsenkel hin, mit dem ihr den Strauß stabilisiert habt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_7": {
+        "German": "So ein verrückter Blumenstrauß. Der ist auf jeden Fall etwas ganz Besonderes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r1_8": {
+        "German": "Ihr konntet den Blumenstrauß noch retten! Auch der Leutnant sieht sehr zufrieden aus. Enya freut sich sicherlich über die Blumen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_0": {
+        "German": "Schnürsenkel sind doch voll hässlich. Natürlich nehmt ihr die Algen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_1": {
+        "German": "Suzan schnappt sich ein paar der klebrigen Blätter und umhüllt damit den Seidenfarn.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_2": {
+        "German": "Die schleimigen Algenfäden ziehen sich nun über den oberen Teil der Pflanze. Unsicher schwimmt ihr zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_3": {
+        "German": "Heilige Makrele, wat is dat denn?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_4": {
+        "German": "Der Algenschleim hat sich auf dem Weg über den gesamten Blumenstrauß verteilt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_5": {
+        "German": "Das ist doch kein Brautstrauß. Das sieht aus, als ob es ein Wal gefressen und wieder ausgespuckt hätte!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_6": {
+        "German": "Und ich rede aus Erfahrung! Sowas kann ich meinem Seesternchen nicht schenken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_7": {
+        "German": "Scholle wirft die Blumen im hohen Bogen über seine Schulter. Leider hat die Braut wegen euch jetzt keinen Blumenstrauß.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d5_r2_8": {
+        "German": "Zum Glück können die Dienstfische einige Dekorationen als provisorischen Blumenstrauß herrichten, sodass die Braut nicht leer ausgeht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_0": {
+        "German": "Willkommen bei Schwimmende Pflanzen den HÄRTESTEN und BESTEN Pflanzen in der weiten See.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_1": {
+        "German": "Hier findet ihr belebende und schwimmende Pflanzen. Welche Pflanzen kann ich euch zu einem Strauß zusammenstecken?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_2": {
+        "German": "Ihr erzählt der Verkäuferin, dass ihr einen Brautstrauß für eine königliche Hochzeit besorgen wollt. Sie bietet euch zwei Varianten an, die sie gerade auf Lager hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_3": {
+        "German": "Ihr dürft zwischen einem Strauß mit grünen Muschelblumen oder einem Strauß mit merkwürdig riechendem Froschkraut wählen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_4": {
+        "German": "Also ich würde ja das Froschkraut nehmen. Als Bonus riecht der zumindest nach etwas. Und die mögen es doch hier fischig.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_5": {
+        "German": "Bist du sicher? Wer will denn schon einen stinkenden Blumenstrauß?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_6": {
+        "German": "Ich finde ja die Muschelblumen niedlich. Sie sind so schön dezent.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d1_r3_7": {
+        "German": "Du bist dir auch etwas unsicher, aber ihr braucht unbedingt noch heute einen Strauß für die Hochzeit. Also, was wählst du?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_o1": {
+        "German": "Muschelblumen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_o2": {
+        "German": "Froschkraut",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r1_0": {
+        "German": "Ihr schnappt euch den Strauß mit den Muschelblumen, bezahlt mit den Perlen, die euch Scholle mitgegeben hat, und schwimmt zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r1_1": {
+        "German": "Leutnant Scholle wartet bereits am Altar auf euch, um den Blumenstrauß zu begutachten. Unsicher zeigt ihr ihm euren Kauf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r1_2": {
+        "German": "Sind das etwas Muschelblumen? Mein Perlchen liebt Muschelblumen. Einen schönen Strauß habt ihr da. Gut gemacht, ihr Knirpse.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r1_3": {
+        "German": "Eure Blumenstraußwahl ist wohl ein Volltreffer! Die Prinzessin wird überglücklich sein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_0": {
+        "German": "Doch bevor ihr den Strauß kaufen könnt, hält Brutella euch auf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_1": {
+        "German": "Wenn ich es mir recht überlege, ist das vielleicht kein guter Strauß für die königliche Hochzeit.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_2": {
+        "German": "Schließlich ist dieser starke Geruch nichts für schwache Nerven!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_3": {
+        "German": "Sie überlegt einen Moment.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_4": {
+        "German": "Aber vielleicht könnt ihr ihn ja mit einem anderen Geruch überdecken. Schließlich gibt es viele Blumen, die genauso aussehen wie die da.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_5": {
+        "German": "Den Geruch überdecken? Ihr schaut einander fragend an und durchsucht eure Taschen nach etwas, das stark und hoffentlich auch gut riecht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_6": {
+        "German": "Also ich habe hier noch mein Schokoladen-Deo.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_7": {
+        "German": "Das ist aber ziemlich aufdringlich und viel zu präsent!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_8": {
+        "German": "Aufdringlich und präsent, genauso wie ich. Hast du denn was Besseres?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_9": {
+        "German": "Ich habe hier ... eine Rosen-Chili. Das ist meine eigene Kreuzung. Wir können ihr Öl benutzen, um den Geruch zu überdecken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d6_r2_10": {
+        "German": "Du bist dir sicher, dass einer der Gegenstände den Geruch des Froschkrauts perfekt überdecken kann. Doch welcher?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_o1": {
+        "German": "Rosen-Chili",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_o2": {
+        "German": "Schoko-Deo",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_0": {
+        "German": "Suzan schnappt sich ihre Chili, zerdrückt diese und reibt vorsichtig die Blätter des Froschkrauts mit dem rosig duftenden Chili-Öl ein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_1": {
+        "German": "Die Pflanze riecht nun auf jeden Fall nicht mehr nach Froschkaut. Unsicher schwimmt ihr zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_2": {
+        "German": "Leutnant Scholle wartet bereits am Altar auf euch, um den Blumenstrauß zu begutachten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_3": {
+        "German": "Ist das etwa Froschkraut?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_4": {
+        "German": "Energisch reißt er euch die Pflanzen aus der Hand und riecht daran.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_5": {
+        "German": "Huch, das riecht ja ganz anders. So blumig und es prickelt sogar in der Nase.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_6": {
+        "German": "Wahrscheinlich ist es einfach irgendein anderes Kraut. Irgendwas Außergewöhnliches, nicht wahr?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_7": {
+        "German": "Ihr nickt natürlich. Ein Glück. Euch ist es gelungen den Blumenstrauß noch zu retten!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r1_8": {
+        "German": "Auch der Leutnant sieht sehr zufrieden aus. Enya freut sich sicherlich über die Blumen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_0": {
+        "German": "Chad schnappt sich seine Deoflasche und hüllt das Kraut sorgfältig in einen schokoladigen Duft.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_1": {
+        "German": "Die Pflanze riecht nun auf jeden Fall nicht mehr nach Froschkraut. Unsicher schwimmt ihr zurück zum Hochzeitsplatz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_2": {
+        "German": "Leutnant Scholle wartet bereits am Altar auf euch, um den Blumenstrauß zu begutachten. Zögernd zeigt ihr ihm euren Kauf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_3": {
+        "German": "Was riecht denn hier so? Ist das etwa Schokolade? Ich liebe Schokolade!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_4": {
+        "German": "Sind das etwa die Blumen? Die muss ich probieren…",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_5": {
+        "German": "Energisch reißt er euch die Pflanzen aus der Hand und beißt eine Blüte ab.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_6": {
+        "German": "Bah, das schmeckt ja furchtbar! Wie alte Socken nach einer langen Seefahrt. Sowas kann ich meiner Seeanemone nicht schenken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_7": {
+        "German": "Scholle wirft die Blumen im hohen Bogen über seine Schulter. Leider hat die Braut wegen euch jetzt keinen Blumenstrauß.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "s_se_2_blume_d7_r2_8": {
+        "German": "Zum Glück können die Dienstfische einige Dekorationen als provisorischen Blumenstrauß herrichten, sodass die Braut nicht leer ausgeht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

@@ -1,0 +1,956 @@
+{
+    "f_se_1_a_0": {
+        "German": "Croak führt euch durch das dicht verwucherte Gebüsch des Urwaldes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_1": {
+        "German": "Auf einmal kommt ihr an einer Lichtung an, die von alten Mammutbäumen umringt ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_2": {
+        "German": "In den Bäumen seht ihr ein ganzes Dorf, welches aus kleinen leicht gebauten Holzhütten besteht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_3": {
+        "German": "Die Frösche sind eindeutig eins mit der Natur.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_4": {
+        "German": "Auf dem Dorfplatz, der sich unten am Boden neben ein paar großen Teichen befindet, gehen einige Frösche ihrem gewohnten Tagesgeschäft nach.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_5": {
+        "German": "SEHT HER! Ich habe Menschlinge mitgebracht! Sie sind Freund:innen, denn sie haben mich aus einer misslichen Lage befreit!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_6": {
+        "German": "Menschlinge? Die hatten wir hier schon lange nicht mehr! Wer seid ihr denn?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_7": {
+        "German": "Wir heißen euch in unserem Dorf herzlich willkommen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_8": {
+        "German": "Was für eine turbulente Begrüßung. Ihr versucht den Fröschen ihre neugierigen Fragen ausgiebig zu beantworten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_9": {
+        "German": "Menschlinge? Von sowas hat mir mein Opa erzählt. Ich dachte, die gibt es gar nicht!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_10": {
+        "German": "Vielleicht sind das nur sehr hässliche Frösche.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_11": {
+        "German": "Ein Raunen geht durch die Menge.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_12": {
+        "German": "Und was macht ihr?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_13": {
+        "German": "Voll die krassen Influencer:innen sind wir!!!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_14": {
+        "German": "Die Frösche schauen Chad nur planlos an.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_15": {
+        "German": "Nein, was der kleine Hüpfer hier meint, ist, was ist eure Berufung.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_16": {
+        "German": "Seid ihr Jäger:innen? Oder Springer:innen? Oder vielleicht doch Gelehrte?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_17": {
+        "German": "Du schaust Suzan und Chad fragend an. Als was würdest du dich sehen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_o1": {
+        "German": "Jäger:in",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_o2": {
+        "German": "Springer:in",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_o3": {
+        "German": "Gelehrte:r",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_0": {
+        "German": "Selbstverständlich bist du geübt im Jagen und auch Chad brüstet sich mit dieser Fähigkeit.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_1": {
+        "German": "Die Frösche sind beeindruckt, bestimmt könnt ihr ihnen ein paar außergewöhnliche Jagdmethoden zeigen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_2": {
+        "German": "Sehr schön! Dann könnt ihr mich ja bei der Jagd begleiten! Das wird sicher ertragreiche Beute bringen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_3": {
+        "German": "Dieses Angebot kannst du dem erfreuten Frosch unmöglich ausschlagen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_4": {
+        "German": "Also begebt ihr euch wieder in die Tiefen des Regenwaldes, um nach den Beutetieren der Frösche zu suchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_5": {
+        "German": "Da! Da vorne! Ein echtes Prachtstück.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_6": {
+        "German": "Der wird uns eine Weile die Bäuche füllen, das kann ich dir sagen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_7": {
+        "German": "Krass, lass mal sehen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_8": {
+        "German": "Du schaust gespannt zwischen den Blättern auf die Lichtung. Was würde es sein?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_9": {
+        "German": "Hirsch? Ein Reh? Vielleicht doch ein Kaninchen? Fehlanzeige. Es ist eine fette Giga-Fliege, die gerade auf einem Stück Fallobst sitzt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_10": {
+        "German": "Am besten lassen wir das unsere Neuankömmlinge regeln.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_11": {
+        "German": "Zeigt aus welchem Holz ihr geschnitzt seid!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_12": {
+        "German": "Du schaust Chad entschlossen an und er nickt dir zu. Euer Einsatz ist gefragt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r1_13": {
+        "German": "Als erfahrene:r Jäger:in weißt du natürlich, wie du die Fliege erwischst. Also, wie fängst du sie?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_o1": {
+        "German": "Anlocken",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_o2": {
+        "German": "Boomerang",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_0": {
+        "German": "Aus deinem Rucksack kramst du dein Mittagessen hervor.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_1": {
+        "German": "Es ist eins der dick belegten Sandwiches, die Chad euch heute früh zubereitet hat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_2": {
+        "German": "Der Geruch nach frischem Brot, Bacon und Rührei duftet einfach wundervoll und ist darum perfekt geeignet, um die Fliege anzulocken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_3": {
+        "German": "Vorsichtig platzierst du das saftige Brot in die Nähe der Fliege.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_4": {
+        "German": "Still und leise stellt ihr euch um die leckere Versuchung. Jetzt nur nicht bewegen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_5": {
+        "German": "Schnurstracks fliegt die Fliege zu deinem Mittagessen. Nun habt ihr leichtes Spiel.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_6": {
+        "German": "Du stürzt dich mit Chad auf das riesige Insekt und ihr ringt es zu Boden.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_7": {
+        "German": "Die Frösche sind beeindruckt von euren schnellen Reflexen und eurer gewaltigen Kraft.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_8": {
+        "German": "Nicht schlecht, Neulinge! Clever! Muss ich schon sagen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_9": {
+        "German": "Den Trick sollten wir uns merken! Der ist nicht von schlechten Eltern.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r1_10": {
+        "German": "Stolz geht ihr mit eurer Beute zurück ins Dorf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_0": {
+        "German": "Du willst die Fliege natürlich mit Style fangen, darum leihst du dir von den Fröschen einen Bumerang.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_1": {
+        "German": "Auch Chad möchte eines dieser Wurfgeschosse für die Jagd benutzen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_2": {
+        "German": "Nice! Ich liebe die Dinger.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_3": {
+        "German": "Aber verletzt euch nicht, Neulinge! Wir wollen euch nicht zurück ins Camp schleppen müssen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_4": {
+        "German": "Eure Jagdgefährt:innen schauen euch gespannt zu, während ihr ausholt, um die Bumerange zu werfen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_5": {
+        "German": "Eure Bumerange schießen gezielt in Richtung der Fliege, die sich von den Geschossen nicht aus der Ruhe bringen lässt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_6": {
+        "German": "Mit einer raschen Bewegung weicht die Fliege jedoch kinderleicht euren Angriffen aus.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_7": {
+        "German": "Mit einem tiefen Brummen flieht sie tiefer in den Regenwald hinein.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_8": {
+        "German": "Die Bumerange tun natürlich, was Bumerange immer tun.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_9": {
+        "German": "Die Hölzer fliegen haarscharf aneinander vorbei und dann zu euch zurück.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_10": {
+        "German": "DUCKT EUCH!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_11": {
+        "German": "Doch zu spät. Die Bumerange treffen euch beide am Kopf und hinterlassen eine rote, dicke Beule.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_12": {
+        "German": "Autsch! Das tut ja richtig weh?! Wie kann das so weh tun? Das ist doch nur dünnes Holz!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_13": {
+        "German": "Haha, sieh sich das mal einer an. Die Menschlinge versuchen doch tatsächlich 'ne Fliege mit dem Bumerang zu fangen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_14": {
+        "German": "Und wie das geschallt hat! Wie bei einem hohlen Baumstamm.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_15": {
+        "German": "Die Frösche lachen sich schlapp. So etwas Lustiges haben sie noch nie gesehen. Auch ihr müsst etwas schmunzeln.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_16": {
+        "German": "So war das natürlich nicht geplant. Aber zumindest könnt ihr nun gemeinsam darüber lachen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d2_r2_17": {
+        "German": "Das wird den Fröschen sicher in Erinnerung bleiben. Aufgeheitert begebt ihr euch zurück ins Dorf.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_0": {
+        "German": "Na klar, du bist ein:e Springer:in! Aber was macht denn eigentlich ein:e Springer:in?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_1": {
+        "German": "Die Frösche erklären dir, dass ein:e Springer:in eine Art Akrobat:in ist, welche:r jeden Abend das Dorf mit neuen Tricks unterhält.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_2": {
+        "German": "Kein Problem für dich. Auf Social Media machst du sowas ja auch irgendwie.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_3": {
+        "German": "Was, du hast bereits Erfahrung?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_4": {
+        "German": "Dann zeig mal, was du so draufhast!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_5": {
+        "German": "Du überlegst, was du ihnen zeigen möchtest. Natürlich kannst du nicht so toll springen wie die Frösche, oder vielleicht doch?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r2_6": {
+        "German": "Du könntest aber auch etwas anderes ausprobieren, zum Beispiel auf einem Seil zu balancieren. Also, was machst du?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_o1": {
+        "German": "Auf einem Seil balancieren",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_o2": {
+        "German": "Springen",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_0": {
+        "German": "Auf dem Seil zu balancieren wäre wohl auch für die Frösche mit ihren langen Beinen ein heikler Akt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_1": {
+        "German": "Für dich hingegen ist das natürlich kein Problem.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_2": {
+        "German": "Du fragst die Frösche, ob sie dir dabei helfen könnten ein Seil zwischen die Baumstämme zu spannen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_3": {
+        "German": "Was? Du willst, dass wir ein Seil aufspannen? Wofür? Willst du etwa Wäsche aufhängen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_4": {
+        "German": "Etwas ratlos gehen sie deiner Bitte nach.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_5": {
+        "German": "Dann zeig mal her, was du kannst, du kurzbeiniger Mensch!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_6": {
+        "German": "Schritt für Schritt gehst du die gespannte Liane entlang und versuchst deine Balance zu halten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_7": {
+        "German": "Die Frösche sind beeindruckt. Was für ein Geschick!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_8": {
+        "German": "Aber sie haben noch nichts von deinem wahren Können gesehen!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_9": {
+        "German": "Du hast noch einen Trumpf in der Hinterhand. Oder wohl eher eine Trumpf-Frucht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_10": {
+        "German": "Ganze drei Tropenfrüchte holst du aus deiner Tasche hervor und beginnst mit ihnen zu jonglieren.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_11": {
+        "German": "Was für ein Talent! Einzigartig! Wie kannst du dich mit diesen Stummelbeinen bloß halten?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_12": {
+        "German": "Wahnsinn, sowas hat noch keiner von uns vorgeführt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r1_13": {
+        "German": "Dein Auftritt ist ein voller Erfolg, die Frösche sind sichtlich beeindruckt von deiner Darbietung.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_0": {
+        "German": "Natürlich kannst auch du so hoch und elegant durch die Luft springen wie deine froschigen Kolleg:innen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_1": {
+        "German": "Du kannst also springen? Mit diesen mickrigen Beinchen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_2": {
+        "German": "Pah! Das will ich sehen! Zeig uns, was du kannst!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_3": {
+        "German": "Gespannt schauen dir die athletischen Frösche zu, wie du dich auf deinen meisterhaften Sprung vorbereitest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_4": {
+        "German": "Du gehst in die Knie und spannst deine Beinmuskulatur an. Mit einem kräftigen Satz stößt du dich vom Boden ab.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_5": {
+        "German": "Kwa-Kwa und Eeeh beobachten dich mit offenen Mäulern, während du einen Salto hinlegst.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_6": {
+        "German": "Stolz landest du wieder auf deinen Beinen. Das war eine Meisterleistung! Die Frösche sehen das jedoch anders.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_7": {
+        "German": "Was war das denn für ein mickriger Sprung?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_8": {
+        "German": "Da springen ja meine Fröschlinge höher als du!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_9": {
+        "German": "Haha, was kann man auch von diesen kurzen Beinen anderes erwarten?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_10": {
+        "German": "War das etwa schon alles? Schau mal hier.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_11": {
+        "German": "Der Frosch springt lachend auf, wirbelt durch die Luft und landet mit einem vierfachen Salto.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_12": {
+        "German": "Mit erhobenem Kopf schaut dich der athletische Frosch herausfordernd an. Wow, damit kannst du nicht mithalten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_13": {
+        "German": "Auch die anderen Frösche auf dem Dorfplatz beginnen wild durch die Gegend zu springen, um sich gegenseitig zu beeindrucken.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d3_r2_14": {
+        "German": "Trotz deiner dürftigen Perfomance habt ihr alle viel Spaß.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_0": {
+        "German": "Selbstverständlich passt du mit deinem umfangreichen Wissen zu den Gelehrten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_1": {
+        "German": "Auch Suzan nickt eifrig, schließlich lernt sie nicht umsonst zwei Wakapediaseiten am Tag auswendig.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_2": {
+        "German": "Ein Frosch des Geistes also.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_3": {
+        "German": "Ah! Gelehrte aus einem fernen Land! Dann erzählt uns doch bitte etwas von eurer Kultur. Teilt euer Wissen mit uns.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_4": {
+        "German": "Der ältere Frosch schmatzt aufgeregt mit seinen schrumpeligen Lippen, gespannt auf die Geheimnisse, die er von euch erfahren könnte.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_5": {
+        "German": "Lasst mich mal überlegen. Hast du vielleicht eine Idee, was wir ihnen erzählen könnten?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_6": {
+        "German": "Du überlegst einen Moment. Ihr könntet ja mit etwas Simplem anfangen. Zum Beispiel, dass die Erde rund ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_7": {
+        "German": "Immerhin gibt es zu Hause viele Menschen, die das Gegenteil behaupten.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_8": {
+        "German": "Oder vielleicht etwas ganz anderes. Erst letztens hast du im Internet etwas von Paradoxa gelesen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_9": {
+        "German": "Das ist bestimmt auch spannend, eine richtige Kopfnuss eben!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d1_r3_10": {
+        "German": "Also, was möchtest du erzählen?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_o1": {
+        "German": "Paradoxon",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_o2": {
+        "German": "Erde ist rund",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_0": {
+        "German": "Natürlich willst du die Frösche nicht mit Fakten langweilen, die deiner Meinung nach jeder schon kennt!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_1": {
+        "German": "Stattdessen erzählt ihr ihnen von Schrädingers Mango.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_2": {
+        "German": "Das ist ein tolles Gedankenexperiment.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_3": {
+        "German": "Dabei legt Schrädinger eine Mango unter eine undurchsichtige Kiste und lässt sie einige Tage im Raum rumliegen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_4": {
+        "German": "Es ist klar, dass die Mango irgendwann verfault, jedoch nicht wann genau das passiert!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_5": {
+        "German": "Warum hat er die Mango nicht einfach gegessen? Das ist doch Verschwendung!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_6": {
+        "German": "Warum sollte man sie auch in eine Kiste stecken und rumliegen lassen? Das ist total unnütz.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_7": {
+        "German": "Das ist ein Gedankenexperiment. Das bedeutet, dass es eine rein fiktive Situation ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_8": {
+        "German": "Gae-cool schaut wütend vor sich. Jetzt hatte er Lust auf eine Mango.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_9": {
+        "German": "Moment, das war nicht alles!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_10": {
+        "German": "Es geht eigentlich darum, da wir ja nicht in die Box schauen können, können wir uns nie sicher sein, ob die Mango noch essbar oder schon verfault ist.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_11": {
+        "German": "Darum ist sie gleichzeitig verfault und essbar, solange wir nicht in die Kiste schauen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_12": {
+        "German": "Ich finde das ja äußerst spannend. Das Prinzip kann man doch sicher auch auf andere Sachen anwenden!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_13": {
+        "German": "Es kommt zu einer heiteren Unterhaltung, wie man Schrädingers Mango auf andere Situationen übertragen könnte.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r1_14": {
+        "German": "Gemeinsam rätselt ihr über die unlösbaren Mysterien des Universums. So langsam fangen die Frösche an euch echt zu mögen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_0": {
+        "German": "Du willst mit etwas Einfachem anfangen. Mit einem herumliegenden Stock malst du einen Kreis in die Erde des Dorfplatzes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_1": {
+        "German": "Stolz erklärst du, dass es sich dabei um die Erde handelt. Eine runde Kugel, die irgendwo im Universum schwebt.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_2": {
+        "German": "Das ist doch nicht dein Ernst, oder?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_3": {
+        "German": "Stimmt! Du musst doch zumindest noch einen Mond und eine Sonne dazu machen, sonst ist das ja gar nicht akkurat.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_4": {
+        "German": "Du erklärst die verschiedenen Rotationen der drei Massen, während du immer wieder mit dem Stab auf dein Schaubild am Boden deutest.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_5": {
+        "German": "Ein … äußerst … schönes Schaubild hast du da gemacht.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_6": {
+        "German": "Er lächelt dir freundlich entgegen. Hopps jedoch runzelt seine warzige Stirn.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_7": {
+        "German": "Also Spaß beiseite, ihr jungen Hüpfer. Ist das wirklich eine neue Erkenntnis bei euch?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_8": {
+        "German": "Das ist ja mal ein Ding!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_9": {
+        "German": "Natürlich ist der Planet eine Kugel! Wie sonst sollen Tag, Nacht und die wechselnden Sternenbilder funktionieren?!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_10": {
+        "German": "Ruhe jetzt! Seid nicht so unhöflich, vielleicht ist das eine neue Erkenntnis in der Welt der Kurzbeine!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_11": {
+        "German": "Es ist eine große Ehre, dass sie das mit uns teilen möchten!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_12": {
+        "German": "Eigentlich nicht. Aber dort, wo wir herkommen, streiten manche Leute darüber.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_13": {
+        "German": "Behaupten sie dann wirklich die Erde wäre flach?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_14": {
+        "German": "Oder vielleicht ein Würfel?",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_d4_r2_15": {
+        "German": "Gemeinsam lacht ihr über diese aberwitzige Behauptung.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_erfolg": {
+        "German": "Menschlinge wie euch trifft man nicht alle Tage, das muss ich euch lassen. Ihr habt euch tatsächlich in allen Disziplinen bewiesen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_misserfolg": {
+        "German": "Ich habe schon lange nicht mehr so herzlich gelacht!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_17_b": {
+        "German": "Ich denke wir sind uns alle einig, dass wir euch gerne in das Dorf aufnehmen möchten!",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_18": {
+        "German": "Im Namen seiner großen Kartoffeligkeit Mashpotato ernenne ich euch drei zu Ehrenmitgliedern des Dorfes.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_19": {
+        "German": "Ein Jubeln geht durch die Menge der Frösche, schließlich haben sie euch in so kurzer Zeit wirklich ins Herz geschlossen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_20": {
+        "German": "Nun seid ihr immer willkommen das Volk zu besuchen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_21": {
+        "German": "Aber nur unter einer Bedingung, ihr müsst die Existenz der Frösche für euch behalten, so wie es schon andere Ehrenmitglieder vor euch getan haben.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_22": {
+        "German": "Gar kein Problem, ihr stimmt dem Deal zu, schließlich können sie sich auf euch verlassen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_23": {
+        "German": "Fröhlich laden euch die Frösche zu ihrem alljährlichen Erntefest ein, welches schon morgen stattfinden soll.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_24": {
+        "German": "Zufrieden, euch mit den Fröschen angefreundet zu haben, geht ihr zurück ins Camp, um euch endlich schlafen zu legen.",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    },
+    "f_se_1_a_frosch": {
+        "German": "Frosch",
+        "Englisch": "",
+        "French": "",
+        "Spain": ""
+    }
+}

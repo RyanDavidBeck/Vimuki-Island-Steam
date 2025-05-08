@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>AA4AF7E0FE047D3585EE4E808AE83EB139141492D6323150A71CF5CB04EE6FC0</Signature>
+  <Content>
+    <Project Guid="38239c5f-5eaa-4798-ad55-3433f6fc2721">
+      <DisplayName Value="VimukiSteam"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="5bdadc9e-88c4-442f-b3ec-330d136cbf92"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638811791251530419"/>
+      <PartitionHash Value="198B0E88AE8D3E4E36D3955D00233614C230768998EE1D07EE2729B6ECAF399C"/>
+      <SaveFileVersion Value="58"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
