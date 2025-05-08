@@ -19,9 +19,7 @@ You are required to provide your own copy of Odin Inspector, Do Tween Pro and Ar
 <br>
 <strong>Do not under any circumstance commit Odin Inspector or Do Tween Pro to this project. </strong>
  
-# GPL3 LICENSE SYNOPSIS
-
-Here's what the license entails:
+# GPL3 LICENSE
 
 1. Anyone can copy, modify and distribute this software.
 2. You have to include the license and copyright notice with each and every distribution.
