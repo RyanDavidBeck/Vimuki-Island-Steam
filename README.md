@@ -7,6 +7,6 @@ This project uses:
 <li>Odin Inspector 3.3+</li>
 <li>Do Tween Pro</li>
 <li>Articy Draft X</li>
-
+<br>
 You are required to provide your own copy of Odin Inspector, Do Tween Pro and Articy. Do not under any circumstance commit Odin Inspector or Do Tween Pro to this project.
  
