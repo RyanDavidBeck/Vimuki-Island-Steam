@@ -23,6 +23,7 @@ public class SuitcaseManager : MonoBehaviour
                 cell.Init(new Vector2Int(x, y));
 
                 var cellRect = cellGo.GetComponent<RectTransform>();
+                cellRect.sizeDelta = new Vector2(cellSize, cellSize);
                 cellRect.anchoredPosition = new Vector2(x * cellSize, -y * cellSize);
 
                 grid[x, y] = cell;
@@ -35,8 +36,7 @@ public class SuitcaseManager : MonoBehaviour
         ClearHighlights();
 
         var size = item.GetSize();
-        RectTransformUtility.ScreenPointToLocalPointInRectangle(gridRoot, Input.mousePosition, null, out var localPoint);
-        var gridPos = GetCenteredGridPosition(localPoint, size);
+        var gridPos = GetPivotGridPosition(item.GetComponent<RectTransform>(), size);
 
         if (!IsInBounds(gridPos, size)) return;
 
@@ -65,8 +65,7 @@ public class SuitcaseManager : MonoBehaviour
     public bool TryPlaceItem(SuitcaseItem item)
     {
         var size = item.GetSize();
-        RectTransformUtility.ScreenPointToLocalPointInRectangle(gridRoot, Input.mousePosition, null, out var localPoint);
-        var gridPos = GetCenteredGridPosition(localPoint, size);
+        var gridPos = GetPivotGridPosition(item.GetComponent<RectTransform>(), size);
 
         if (!IsInBounds(gridPos, size)) return false;
 
@@ -93,6 +92,7 @@ public class SuitcaseManager : MonoBehaviour
         var pos = new Vector2(gridPos.x + size.x / 2f, gridPos.y + size.y / 2f) * cellSize;
         var itemTransform = (RectTransform)item.transform;
         itemTransform.anchoredPosition = new Vector2(pos.x, -pos.y);
+        
 
         return true;
     }
@@ -105,19 +105,16 @@ public class SuitcaseManager : MonoBehaviour
         }
     }
 
-    private Vector2Int GetCenteredGridPosition(Vector2 localPoint, Vector2Int size)
+    private Vector2Int GetPivotGridPosition(RectTransform itemTransform, Vector2Int size)
     {
-        var centerOffset = new Vector2((size.x - 1) / 2f, (size.y - 1) / 2f);
-        var x = Mathf.FloorToInt((localPoint.x / cellSize) - centerOffset.x);
-        var y = Mathf.FloorToInt((-localPoint.y / cellSize) - centerOffset.y);
-        return new Vector2Int(x, y);
-    }
-    
-    private Vector2Int GetGridPosition(Vector2 localPoint)
-    {
-        var x = Mathf.FloorToInt(localPoint.x / cellSize);
-        var y = Mathf.FloorToInt(-localPoint.y / cellSize);
-        return new Vector2Int(x, y);
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(gridRoot, Input.mousePosition, null, out var localPoint);
+        
+        var pivotOffset = new Vector2(size.x / 2f, size.y / 2f);
+        
+        var gridX = (localPoint.x / cellSize) - pivotOffset.x;
+        var gridY = (-localPoint.y / cellSize) - pivotOffset.y;
+
+        return new Vector2Int(Mathf.FloorToInt(gridX), Mathf.FloorToInt(gridY));
     }
 
     private bool IsInBounds(Vector2Int pos, Vector2Int size)

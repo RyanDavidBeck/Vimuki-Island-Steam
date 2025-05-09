@@ -27,13 +27,14 @@ public class SuitcaseItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEnd
         _originalPosition = _rectTransform.anchoredPosition;
 
         
-        transform.SetParent(_canvas.transform, true);
+        transform.SetParent(_canvas.transform);
         _rectTransform.SetAsLastSibling();
     }
 
     public void OnDrag(PointerEventData eventData)
     {
-        _rectTransform.anchoredPosition += eventData.delta / _canvas.scaleFactor;
+        transform.position = Input.mousePosition;
+        //_rectTransform.anchoredPosition += eventData.delta / _canvas.scaleFactor;
 
         // Rotation
         if (!_rightClickHandled && Input.GetMouseButtonDown(1))
@@ -53,10 +54,11 @@ public class SuitcaseItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEnd
     {
         if (_suitcaseManager.TryPlaceItem(this))
         {
-            transform.SetParent(_suitcaseManager.ItemParent, false);
+            transform.SetParent(_suitcaseManager.ItemParent, true);
         }
         else
         {
+            //Can't be placed
             _rectTransform.SetParent(_originalParent);
             _rectTransform.anchoredPosition = _originalPosition;
         }
